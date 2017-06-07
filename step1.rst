@@ -20,7 +20,7 @@ start to finish within the DE.
 |DE_logo|
 
 - Your analyses are not limited by your computer. All computation in the
-  Discovery Enviornment runs on CyVerse resources. You can connect from your
+  Discovery Environment runs on CyVerse resources. You can connect from your
   laptop or phone and run jobs large and small.
 - Once you launch a job it will run until completion. You can logout once a job
   is run; by default, you will get an email notification when the job completes.
@@ -28,7 +28,7 @@ start to finish within the DE.
 
 **Steps:**
 
-  1. Log into the Discovery Enviornment at `https://de.cyverse.org/de/ <https://de.cyverse.org/de/>`_
+  1. Log into the Discovery Environment at `https://de.cyverse.org/de/ <https://de.cyverse.org/de/>`_
 
   .. Tip::
     If you forgot your password, you can reset it at the CyVerse User Portal `https://user.cyverse.org/ <https://user.cyverse.org/>`_
@@ -51,7 +51,7 @@ Fix or improve this documentation
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Fix this tutorial on GitHub:
-    `GitHub <FIX_THIS_IN_YOUR_DOCUMENTATION>`_
+    `GitHub <https://github.com/CyVerse-learning-materials/discovery_environment_guide>`_
 
 Send a note:
     `Tutorials@CyVerse.org <Tutorials@CyVerse.org>`_

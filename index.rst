@@ -9,17 +9,19 @@ Discovery Environment Guide
 Goal
 ----
 Introduce the Discovery Enviornment (DE) to start managing data, using applications,
-and managing application history and results.
+and managing application history and results. This guide will only cover a limited subset
+of Discovery Environment functionalities; see the `Discovery Environment manual <https://pods.iplantcollaborative.org/wiki/display/DEmanual/Table+of+Contents>`_
+for the full set of documentation.
 
 .. toctree::
 	:maxdepth: 2
 
 	Tutorial home <index.rst>
 	Logging in <step1.rst>
-	Viewing and manging data <step2.rst>
+	Viewing and managing data <step2.rst>
 	Launching an analysis job <step3.rst>
 	Checking job status and results <step4.rst>
-	Tips, tricks, and FAQs <step5.rst>
+
 ..
 	#### Comment:This tutorial can have multiple pages. The table of contents assumes
 	you have an additional page called 'Step Owo' with content located in 'step1.rst'
