@@ -26,7 +26,8 @@ start to finish within the DE.
   is run; by default, you will get an email notification when the job completes.
 
 
-**Logging in to the Discovery Environment:**
+Logging in to the Discovery Environment:
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
   1. Log into the Discovery Environment at `https://de.cyverse.org/de/ <https://de.cyverse.org/de/>`_
 
@@ -47,8 +48,7 @@ start to finish within the DE.
 	####
 
 
-Fix or improve this documentation
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+**Fix or improve this documentation**
 
 Fix this tutorial on GitHub:
     `GitHub <https://github.com/CyVerse-learning-materials/discovery_environment_guide>`_
@@ -56,10 +56,7 @@ Fix this tutorial on GitHub:
 Send a note:
     `Tutorials@CyVerse.org <Tutorials@CyVerse.org>`_
 
-.. class:: center
-
-  |Home_Icon|_
-  `Learning Center Home <http://learning.cyverse.org/>`_
+|Home_Icon|_ `Learning Center Home <http://learning.cyverse.org/>`_
 
 .. |CyVerse logo| image:: ./img/cyverse_rgb.png
     :width: 500
@@ -72,7 +69,7 @@ Send a note:
 .. |DE_logo| image:: ./img/de/de-icon.png
     :width: 100
     :height: 100
-    :align: middle
+    :align: center
 .. |person_icon| image:: ./img/de/person_icon.png
     :width: 15
     :height: 15
