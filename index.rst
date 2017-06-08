@@ -52,27 +52,15 @@ Downloads, access, and services
       - You will need a CyVerse account to complete this exercise
       - `Register <https://user.cyverse.org/>`_
 
-More help and additional information
-`````````````````````````````````````
 
-..
-    Short description and links to any reading materials
+----
 
-Search for an answer:
-    `CyVerse Learning Center <http://learning.cyverse.org>`_ or
-    `CyVerse Wiki <https://wiki.cyverse.org>`_
+**Fix or improve this documentation**
 
-Post your question to the user forum:
-    `Ask CyVerse <http://ask.iplantcollaborative.org/questions>`_
+- On Github: `Repo link <https://github.com/CyVerse-learning-materials/discovery_environment_guide>`_
+- Send feedback: `Tutorials@CyVerse.org <Tutorials@CyVerse.org>`_
 
-Fix or improve this documentation
-``````````````````````````````````
-
-Fix this tutorial on GitHub:
-    `GitHub <https://github.com/CyVerse-learning-materials/discovery_environment_guide>`_
-
-Send a note:
-    `Tutorials@CyVerse.org <Tutorials@CyVerse.org>`_
+----
 
 |Home_Icon|_
 `Learning Center Home <http://learning.cyverse.org/>`_

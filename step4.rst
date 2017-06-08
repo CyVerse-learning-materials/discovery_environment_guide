@@ -14,11 +14,13 @@ launched. Using the Analysis console you can also view the status of jobs in pro
 cancel jobs, relaunch jobs, and view and save the parameters of previously launched
 jobs.
 
+----
+
 ..
 	#### Comment: short text description goes here ####
 
 
-**Example Discovery Environment analysis: Check MUSCLE Results:**
+**Check Job Results:**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
   1. Click on **Analyses** from the DE workspace and monitor the status of your
@@ -44,8 +46,8 @@ jobs.
         - `Example output on CyVerse Data Commons <http://datacommons.cyverse.org/browse/iplant/home/shared/cyverse_training/platform_guides/discovery_enviornment/muscle_3_8_31/02_muscle_output>`_
         - `Example output on DE <https://de.cyverse.org/de/?type=data&folder=/iplant/home/shared/cyverse_training/platform_guides/discovery_enviornment/muscle_3_8_31/02_muscle_output>`_
 
-**Example Discovery Environment analysis: Save MUSCLE parameters:**
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+**Save Job Parameters:**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 The analysis menu gives you several options, including saving the parameters
 of a previously used job.
@@ -73,19 +75,27 @@ launching jobs, and obtaining results.
 - Try a tutorial using the Discovery Environment in the `Learning Center <http://learning.cyverse.org>`_
 - See a complete list of Discovery Environment Applications on the Cyverse Wiki `DE Apps list <https://wiki.cyverse.org/wiki/display/DEapps/Discovery+Environment+Applications+List>`_
 
+More help and additional information
+`````````````````````````````````````
+
+..
+    Short description and links to any reading materials
+
+Search for an answer:
+    `CyVerse Learning Center <http://learning.cyverse.org>`_ or
+    `CyVerse Wiki <https://wiki.cyverse.org>`_
+
+Post your question to the user forum:
+    `Ask CyVerse <http://ask.iplantcollaborative.org/questions>`_
+    
 ----
 
-Fix or improve this documentation
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+**Fix or improve this documentation:**
 
-Fix this tutorial on GitHub:
-    `GitHub <https://github.com/CyVerse-learning-materials/discovery_environment_guide>`_
+- On Github: `Repo link <https://github.com/CyVerse-learning-materials/discovery_environment_guide>`_
+- Send feedback: `Tutorials@CyVerse.org <Tutorials@CyVerse.org>`_
 
-Send a note:
-    `Tutorials@CyVerse.org <Tutorials@CyVerse.org>`_
-
-|Home_Icon|_
-`Learning Center Home <http://learning.cyverse.org/>`_
+----
 
 .. |CyVerse logo| image:: ./img/cyverse_rgb.png
     :width: 500

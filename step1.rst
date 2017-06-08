@@ -11,9 +11,9 @@ Logging in
 
 The Discovery Environment (DE) was designed to be an all-purpose bioinformatics
 workbench – tailored to the needs of biologists who have data to analyze but who
-may not have command line expertise. Most of the popular bioinformatics analyses
-(e.g. genome assembly, RNA-Seq, phylogeny methods, GWAS, etc.) can be done from
-start to finish within the DE.
+may not have command line expertise. Many popular bioinformatics analyses and
+workflows (e.g. genome assembly, RNA-Seq, phylogeny methods, GWAS, etc.) can be
+done from start to finish within the DE.
 
 **Some things to remember about the DE**
 
@@ -25,9 +25,10 @@ start to finish within the DE.
 - Once you launch a job it will run until completion. You can logout once a job
   is run; by default, you will get an email notification when the job completes.
 
+----
 
-Logging in to the Discovery Environment:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+**Logging in to the Discovery Environment:**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
   1. Log into the Discovery Environment at `https://de.cyverse.org/de/ <https://de.cyverse.org/de/>`_
 
@@ -48,12 +49,17 @@ Logging in to the Discovery Environment:
 	####
 
 
-**Fix or improve this documentation**
+----
+
+**Fix or improve this documentation:**
 
 - On Github: `Repo link <https://github.com/CyVerse-learning-materials/discovery_environment_guide>`_
 - Send feedback: `Tutorials@CyVerse.org <Tutorials@CyVerse.org>`_
 
-|Home_Icon|_ `Learning Center Home <http://learning.cyverse.org/>`_
+----
+
+  |Home_Icon|_
+  `Learning Center Home <http://learning.cyverse.org/>`_
 
 .. |CyVerse logo| image:: ./img/cyverse_rgb.png
     :width: 500

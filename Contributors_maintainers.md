@@ -1,9 +1,9 @@
 #Contributors and Maintainers
 
-## CyVerse Maintainer: 
+## CyVerse Maintainer:
 
-**Name:**
-**Email:**
+**Name: Jason Williams**
+**Email: Tutorials@cyverse.org**
 
 ## We would like to thank the following contributors
 

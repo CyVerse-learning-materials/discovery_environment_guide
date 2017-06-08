@@ -13,16 +13,19 @@ The Discovery Environment allows you to access, view, and manage your files in
 the CyVerse Data Store. You can upload smaller files, but for large files or
 large number of files, we recommend faster secure methods such as Cyberduck.
 
+----
+
 ..
 	#### Comment: short text description goes here ####
 
 
-**Navigating the Data Window**
+**Navigating the Data Window:**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 1. If necessary, login to the `Discovery Environment <https://de.cyverse.org/de/>`_
+
 2. Click on the data icon |data_icon| to view files accessible to you in the
-Data Store.
+   Data Store.
 
   .. Tip::
     The top directory in the data window is your username and is your
@@ -39,8 +42,8 @@ Data Store.
     - *Favorites*: Folder your have marked as favorite will be shown here
 
 
-**Quick Exercises: Preview a file and metadata**
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+**Preview a File and View Metadata:**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 In the DE you can preview many file types include images and plain- or
 delimited-text files. The DE also allows you to associate your data with
@@ -73,8 +76,8 @@ metadata.
      also prepares them for publication (e.g. to NCBI databases such as the Short
      Read Archive (SRA)).
 
-**Quick Exercises: Share a file with a URL (Public Link)**
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+**Share a File with a URL (Public Link):**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 You can quickly share files in your Data Store using a Discovery Environment
 Public Link.
 
@@ -110,8 +113,8 @@ Public Link.
     next to file you wish to share. Manage these links using the "Manage Data
     Links" console which is accessible from the *Share* menu as described above.
 
-**Quick Exercises: Share a file/folder with another CyVerse User**
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+**Share a File/folder with Another CyVerse User:**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Share data with another CyVerse user by granting permission to read, write, or
 own files/folders
 
@@ -183,18 +186,14 @@ own files/folders
 	####
 
 
+----
 
-Fix or improve this documentation
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+**Fix or improve this documentation:**
 
-Fix this tutorial on GitHub:
-    `GitHub <https://github.com/CyVerse-learning-materials/discovery_environment_guide>`_
+- On Github: `Repo link <https://github.com/CyVerse-learning-materials/discovery_environment_guide>`_
+- Send feedback: `Tutorials@CyVerse.org <Tutorials@CyVerse.org>`_
 
-Send a note:
-    `Tutorials@CyVerse.org <Tutorials@CyVerse.org>`_
-
-|Home_Icon|_
-`Learning Center Home <http://learning.cyverse.org/>`_
+----
 
 .. |CyVerse logo| image:: ./img/cyverse_rgb.png
     :width: 500
@@ -208,14 +207,14 @@ Send a note:
     :width: 30
     :height: 30
 .. |data_window| image:: ./img/de/data_window.png
-    :width: 400
-    :height: 200
+    :width: 550
+    :height: 300
 .. |viewing_window| image:: ./img/de/viewing_window.png
     :width: 400
     :height: 200
 .. |data_links_window| image:: ./img/de/manage_data_links.png
-    :width: 250
-    :height: 150
+    :width: 450
+    :height: 250
 .. |delete_icon| image:: ./img/de/delete_icon.png
     :width: 15
     :height: 15
@@ -223,6 +222,6 @@ Send a note:
     :width: 15
     :height: 15
 .. |manage_sharing| image:: ./img/de/manage_sharing_menu.png
-    :width: 250
-    :height: 200
+    :width: 400
+    :height: 300
 ..

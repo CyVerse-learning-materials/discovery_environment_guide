@@ -14,6 +14,8 @@ applications in the Discovery Environment. We will cover the minimum you need to
 launch an analysis using some sample data. In this example, we will use the **Muscle**
 multiple sequence aligner app, to align some DNA sequences.
 
+----
+
 ..
 	#### Comment: short text description goes here ####
 
@@ -61,7 +63,7 @@ multiple sequence aligner app, to align some DNA sequences.
     - |beta| **Beta**: App is in beta testing (leave feedback if you use!)
     - |private| **Private**: Application is not public and not visiable by all users
 
-**Example Discovery Environment analysis: Multiple sequence alignment with MUSCLE:**
+**Example Discovery Environment Analysis: Multiple sequence alignment with MUSCLE:**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 1. If necessary, login to the `Discovery Environment <https://de.cyverse.org/de/>`_
 
@@ -71,25 +73,20 @@ multiple sequence aligner app, to align some DNA sequences.
 3. Under “Analysis Name” leave the defaults or make any desired notes.
    |muscle_app_window|
 4. Under “Select Input data” click **Browse**, then navigate to and select
-   `DE_sample_plants.fas <https://de.cyverse.org/de/?type=data&folder=/iplant/home/shared/cyverse_training/platform_guides/discovery_enviornment/muscle_input>`_; then click OK.
+   `DE_sample_plants.fas <https://de.cyverse.org/de/?type=data&folder=/iplant/home/shared/cyverse_training/platform_guides/discovery_enviornment/muscle_3_8_31/01_muscle_input>`_; then click OK.
 
    (Location: *Community Data > cyverse_training > platform_guides > discovery_environment > muscle_3_8_31 > 01_muscle_input*)
 
-5. Under “Sequence Type”, select **DNA**, and then click **Launch Analysis**. You will receive a notification and may close the Apps window.
+5. Under “Sequence Type”, select **DNA**, and then click **Launch Analysis**. You will receive a notification and may close the Muscle App window.
 
 ----
 
-Fix or improve this documentation
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+**Fix or improve this documentation:**
 
-Fix this tutorial on GitHub:
-    `GitHub <https://github.com/CyVerse-learning-materials/discovery_environment_guide>`_
+- On Github: `Repo link <https://github.com/CyVerse-learning-materials/discovery_environment_guide>`_
+- Send feedback: `Tutorials@CyVerse.org <Tutorials@CyVerse.org>`_
 
-Send a note:
-    `Tutorials@CyVerse.org <Tutorials@CyVerse.org>`_
-
-|Home_Icon|_
-`Learning Center Home <http://learning.cyverse.org/>`_
+----
 
 .. |CyVerse logo| image:: ./img/cyverse_rgb.png
     :width: 500
