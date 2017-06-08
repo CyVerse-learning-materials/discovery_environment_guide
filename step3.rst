@@ -4,7 +4,7 @@
 `Learning Center Home <http://learning.cyverse.org/>`_
 
 
-Launching an analysis job
+Launching an Analysis Job
 -------------------------
 
 **Description:**

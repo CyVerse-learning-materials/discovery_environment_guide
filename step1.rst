@@ -4,7 +4,7 @@
 `Learning Center Home <http://learning.cyverse.org/>`_
 
 
-Logging in
+Logging In
 ----------
 
 **Description:**

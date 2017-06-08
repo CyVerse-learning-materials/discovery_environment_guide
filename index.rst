@@ -19,10 +19,10 @@ for the full set of documentation.
 	:maxdepth: 2
 
 	Tutorial home <index.rst>
-	Logging in <step1.rst>
-	Viewing and managing data <step2.rst>
-	Launching an analysis job <step3.rst>
-	Checking job status and results <step4.rst>
+	Logging In <step1.rst>
+	Viewing and Managing Data <step2.rst>
+	Launching an Analysis Job <step3.rst>
+	Checking Job Status and Results <step4.rst>
 
 ..
 	#### Comment:This tutorial can have multiple pages. The table of contents assumes

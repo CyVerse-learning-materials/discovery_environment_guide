@@ -4,14 +4,14 @@
 `Learning Center Home <http://learning.cyverse.org/>`_
 
 
-Viewing and managing data
+Viewing and Managing Data
 -------------------------
 
 **Description:**
 
 The Discovery Environment allows you to access, view, and manage your files in
 the CyVerse Data Store. You can upload smaller files, but for large files or
-large number of files, we recommend faster secure methods such as Cyberduck.
+large number of files, we recommend faster methods such as Cyberduck.
 
 ----
 
@@ -28,18 +28,17 @@ large number of files, we recommend faster secure methods such as Cyberduck.
    Data Store.
 
   .. Tip::
-    The top directory in the data window is your username and is your
+    The first directory in the data window is your username and is your
     your personal folder on the Data Store.
 
     |data_window|
 
     The other directories include:
 
-    - *Community Data*: Publically available data hosted on CyVerse
-    - *Shared with me*: Data shared with you by CyVerse or individual CyVerse
-      users
-    - *Trash*: Data deleted in the Discovery Environment goes here
-    - *Favorites*: Folder your have marked as favorite will be shown here
+    - *Community Data*: publically available data hosted on CyVerse
+    - *Shared with me*: data shared with you by CyVerse or individual users
+    - *Trash*: data deleted in the Discovery Environment goes here
+    - *Favorites*: folder(s) your have marked as favorite will be shown here
 
 
 **Preview a File and View Metadata:**
@@ -82,7 +81,7 @@ You can quickly share files in your Data Store using a Discovery Environment
 Public Link.
 
 .. Note::
-  You can only share individual files using the quick link. Since files are
+  You can **only share individual files** using the quick link. Since files are
   shared over HTTP this is only recommended for small files. This is a convenient
   , but less secure method for file transfer. Do not share sensitive/private
   data using these links.

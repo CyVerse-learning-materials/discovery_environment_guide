@@ -4,7 +4,7 @@
 `Learning Center Home <http://learning.cyverse.org/>`_
 
 
-Checking job status and results
+Checking Job Status and Results
 -------------------------------
 
 **Description:**
@@ -87,7 +87,7 @@ Search for an answer:
 
 Post your question to the user forum:
     `Ask CyVerse <http://ask.iplantcollaborative.org/questions>`_
-    
+
 ----
 
 **Fix or improve this documentation:**
