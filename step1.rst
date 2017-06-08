@@ -50,11 +50,8 @@ Logging in to the Discovery Environment:
 
 **Fix or improve this documentation**
 
-Fix this tutorial on GitHub:
-    `GitHub <https://github.com/CyVerse-learning-materials/discovery_environment_guide>`_
-
-Send a note:
-    `Tutorials@CyVerse.org <Tutorials@CyVerse.org>`_
+- On Github: `Repo link <https://github.com/CyVerse-learning-materials/discovery_environment_guide>`_
+- Send feedback: `Tutorials@CyVerse.org <Tutorials@CyVerse.org>`_
 
 |Home_Icon|_ `Learning Center Home <http://learning.cyverse.org/>`_
 
@@ -69,7 +66,6 @@ Send a note:
 .. |DE_logo| image:: ./img/de/de-icon.png
     :width: 100
     :height: 100
-    :align: center
 .. |person_icon| image:: ./img/de/person_icon.png
     :width: 15
     :height: 15
