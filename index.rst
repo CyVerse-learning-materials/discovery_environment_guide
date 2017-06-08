@@ -13,6 +13,8 @@ and managing application history and results. This guide will only cover a limit
 of Discovery Environment functionalities; see the `Discovery Environment manual <https://pods.iplantcollaborative.org/wiki/display/DEmanual/Table+of+Contents>`_
 for the full set of documentation.
 
+----
+
 .. toctree::
 	:maxdepth: 2
 
@@ -64,7 +66,7 @@ Post your question to the user forum:
     `Ask CyVerse <http://ask.iplantcollaborative.org/questions>`_
 
 Fix or improve this documentation
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+``````````````````````````````````
 
 Fix this tutorial on GitHub:
     `GitHub <FIX_THIS_IN_YOUR_DOCUMENTATION>`_
