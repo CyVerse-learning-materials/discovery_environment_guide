@@ -53,13 +53,13 @@ Downloads, access, and services
       - `Register <https://user.cyverse.org/>`_
 
 More help and additional information
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+`````````````````````````````````````
 
 ..
     Short description and links to any reading materials
 
 Search for an answer:
-    `CyVerse Learning Center <http://www.cyverse.org/learning-center>`_ or
+    `CyVerse Learning Center <http://learning.cyverse.org>`_ or
     `CyVerse Wiki <https://wiki.cyverse.org>`_
 
 Post your question to the user forum:
@@ -69,7 +69,7 @@ Fix or improve this documentation
 ``````````````````````````````````
 
 Fix this tutorial on GitHub:
-    `GitHub <FIX_THIS_IN_YOUR_DOCUMENTATION>`_
+    `GitHub <https://github.com/CyVerse-learning-materials/discovery_environment_guide>`_
 
 Send a note:
     `Tutorials@CyVerse.org <Tutorials@CyVerse.org>`_
