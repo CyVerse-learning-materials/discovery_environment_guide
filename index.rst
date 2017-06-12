@@ -3,11 +3,14 @@
 |Home_Icon|_
 `Learning Center Home <http://learning.cyverse.org/>`_
 
-Discovery Environment Guide
-===========================
+**Discovery Environment Guide**
+===============================
 
 Goal
 ----
+
+|DE_logo|
+
 Introduce the Discovery Enviornment (DE) to start managing data, using applications,
 and managing application history and results. This guide will only cover a limited subset
 of Discovery Environment functionalities; see the `Discovery Environment manual <https://pods.iplantcollaborative.org/wiki/display/DEmanual/Table+of+Contents>`_
@@ -18,7 +21,7 @@ for the full set of documentation.
 .. toctree::
 	:maxdepth: 2
 
-	Tutorial home <index.rst>
+	Tutorial home <self>
 	Logging In <step1.rst>
 	Viewing and Managing Data <step2.rst>
 	Launching an Analysis Job <step3.rst>
@@ -73,3 +76,6 @@ Downloads, access, and services
     :width: 25
     :height: 25
 .. _Home_Icon: http://learning.cyverse.org/
+.. |DE_logo| image:: ./img/de/de-icon.png
+    :width: 100
+    :height: 100

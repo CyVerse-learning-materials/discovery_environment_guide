@@ -7,8 +7,6 @@
 Checking Job Status and Results
 -------------------------------
 
-**Description:**
-
 The Discovery Environment maintains a detailed history of jobs you have previously
 launched. Using the Analysis console you can also view the status of jobs in progress,
 cancel jobs, relaunch jobs, and view and save the parameters of previously launched
@@ -20,8 +18,8 @@ jobs.
 	#### Comment: short text description goes here ####
 
 
-**Check Job Results:**
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+*Check Discovery Enviornment Job Results*
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
   1. Click on **Analyses** from the DE workspace and monitor the status of your
      submitted job (You may have to click refresh to view updated status).
@@ -45,9 +43,11 @@ jobs.
       -
         - `Example output on CyVerse Data Commons <http://datacommons.cyverse.org/browse/iplant/home/shared/cyverse_training/platform_guides/discovery_enviornment/muscle_3_8_31/02_muscle_output>`_
         - `Example output on DE <https://de.cyverse.org/de/?type=data&folder=/iplant/home/shared/cyverse_training/platform_guides/discovery_enviornment/muscle_3_8_31/02_muscle_output>`_
+----
 
-**Save Job Parameters:**
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+*Save Discovery Enviornment Job Parameters*
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 The analysis menu gives you several options, including saving the parameters
 of a previously used job.
@@ -60,8 +60,8 @@ of a previously used job.
 
 ----
 
-Summary
-~~~~~~~
+*Summary*
+~~~~~~~~~
 
 Using MUSCLE as an example, you have gotten an overview of how most of the
 applications within the Discovery Environment work - from managing data, to

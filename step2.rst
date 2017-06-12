@@ -7,8 +7,6 @@
 Viewing and Managing Data
 -------------------------
 
-**Description:**
-
 The Discovery Environment allows you to access, view, and manage your files in
 the CyVerse Data Store. You can upload smaller files, but for large files or
 large number of files, we recommend faster methods such as Cyberduck.
@@ -19,8 +17,8 @@ large number of files, we recommend faster methods such as Cyberduck.
 	#### Comment: short text description goes here ####
 
 
-**Navigating the Data Window:**
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+*Navigating the Data Window in the Discovery Environemnt*
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 1. If necessary, login to the `Discovery Environment <https://de.cyverse.org/de/>`_
 
@@ -40,9 +38,10 @@ large number of files, we recommend faster methods such as Cyberduck.
     - *Trash*: data deleted in the Discovery Environment goes here
     - *Favorites*: folder(s) your have marked as favorite will be shown here
 
+----
 
-**Preview a File and View Metadata:**
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+*Preview a File and View Metadata in Discovery Enviornment*
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 In the DE you can preview many file types include images and plain- or
 delimited-text files. The DE also allows you to associate your data with
@@ -75,8 +74,10 @@ metadata.
      also prepares them for publication (e.g. to NCBI databases such as the Short
      Read Archive (SRA)).
 
-**Share a File with a URL (Public Link):**
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+----
+
+*Share a File in Discovery Enviornment with a URL (Public Link)*
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 You can quickly share files in your Data Store using a Discovery Environment
 Public Link.
 
@@ -112,8 +113,10 @@ Public Link.
     next to file you wish to share. Manage these links using the "Manage Data
     Links" console which is accessible from the *Share* menu as described above.
 
-**Share a File/folder with Another CyVerse User:**
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+----
+
+*Share a File/folder in Discovery Enviornment with Another CyVerse User*
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Share data with another CyVerse user by granting permission to read, write, or
 own files/folders
 

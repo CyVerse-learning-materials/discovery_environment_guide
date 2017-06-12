@@ -7,8 +7,6 @@
 Logging In
 ----------
 
-**Description:**
-
 The Discovery Environment (DE) was designed to be an all-purpose bioinformatics
 workbench – tailored to the needs of biologists who have data to analyze but who
 may not have command line expertise. Many popular bioinformatics analyses and
@@ -16,8 +14,6 @@ workflows (e.g. genome assembly, RNA-Seq, phylogeny methods, GWAS, etc.) can be
 done from start to finish within the DE.
 
 **Some things to remember about the DE**
-
-|DE_logo|
 
 - Your analyses are not limited by your computer. All computation in the
   Discovery Environment runs on CyVerse resources. You can connect from your
@@ -27,7 +23,7 @@ done from start to finish within the DE.
 
 ----
 
-**Logging in to the Discovery Environment:**
+*Logging in to the Discovery Environment*
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
   1. Log into the Discovery Environment at `https://de.cyverse.org/de/ <https://de.cyverse.org/de/>`_
@@ -69,9 +65,6 @@ done from start to finish within the DE.
     :width: 25
     :height: 25
 .. _Home_Icon: http://learning.cyverse.org/
-.. |DE_logo| image:: ./img/de/de-icon.png
-    :width: 100
-    :height: 100
 .. |person_icon| image:: ./img/de/person_icon.png
     :width: 15
     :height: 15

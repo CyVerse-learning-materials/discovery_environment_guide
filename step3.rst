@@ -7,8 +7,6 @@
 Launching an Analysis Job
 -------------------------
 
-**Description:**
-
 When you are ready to analyze data, you can select from one of several hundred
 applications in the Discovery Environment. We will cover the minimum you need to
 launch an analysis using some sample data. In this example, we will use the **Muscle**
@@ -63,7 +61,7 @@ multiple sequence aligner app, to align some DNA sequences.
     - |beta| **Beta**: App is in beta testing (leave feedback if you use!)
     - |private| **Private**: Application is not public and not visiable by all users
 
-**Example Discovery Environment Analysis: Multiple sequence alignment with MUSCLE:**
+*Example Discovery Environment Analysis: Multiple sequence alignment with MUSCLE*
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 1. If necessary, login to the `Discovery Environment <https://de.cyverse.org/de/>`_
 
