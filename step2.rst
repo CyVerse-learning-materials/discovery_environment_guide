@@ -40,7 +40,7 @@ large number of files, we recommend faster methods such as Cyberduck.
 
 ----
 
-*Preview a File and View Metadata in Discovery Enviornment*
+*Preview a File and View Metadata in Discovery Environment*
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 In the DE you can preview many file types include images and plain- or

@@ -6,10 +6,10 @@
 **Discovery Environment Guide**
 ===============================
 
+|DE_logo|
+
 Goal
 ----
-
-|DE_logo|
 
 Introduce the Discovery Enviornment (DE) to start managing data, using applications,
 and managing application history and results. This guide will only cover a limited subset
