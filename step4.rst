@@ -41,8 +41,8 @@ jobs.
         - phylip_interleaved.aln
         - phylip_sequential.aln
       -
-        - `Example output on CyVerse Data Commons <http://datacommons.cyverse.org/browse/iplant/home/shared/cyverse_training/platform_guides/discovery_enviornment/muscle_3_8_31/02_muscle_output>`_
-        - `Example output on DE <https://de.cyverse.org/de/?type=data&folder=/iplant/home/shared/cyverse_training/platform_guides/discovery_enviornment/muscle_3_8_31/02_muscle_output>`_
+        - `Example output on CyVerse Data Commons <http://datacommons.cyverse.org/browse/iplant/home/shared/cyverse_training/platform_guides/discovery_environment/muscle_3_8_31/02_muscle_output>`_
+        - `Example output on DE <https://de.cyverse.org/de/?type=data&folder=/iplant/home/shared/cyverse_training/platform_guides/discovery_environment/muscle_3_8_31/02_muscle_output>`_
 ----
 
 

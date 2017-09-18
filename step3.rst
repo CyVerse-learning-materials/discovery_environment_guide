@@ -27,7 +27,7 @@ multiple sequence aligner app, to align some DNA sequences.
       - Example
     * - Unaligned DNA sequence reads
       - One or more sequences in FASTA format
-      - `DE_sample_plants.fas <http://datacommons.cyverse.org/browse/iplant/home/shared/cyverse_training/platform_guides/discovery_enviornment/muscle_3_8_31/01_muscle_input/DE_sample_plants.fas>`_
+      - `DE_sample_plants.fas <http://datacommons.cyverse.org/browse/iplant/home/shared/cyverse_training/platform_guides/discovery_environment/muscle_3_8_31/01_muscle_input/DE_sample_plants.fas>`_
 
 **Discovery Environment App(s):**
 
@@ -71,7 +71,7 @@ multiple sequence aligner app, to align some DNA sequences.
 3. Under “Analysis Name” leave the defaults or make any desired notes.
    |muscle_app_window|
 4. Under “Select Input data” click **Browse**, then navigate to and select
-   `DE_sample_plants.fas <https://de.cyverse.org/de/?type=data&folder=/iplant/home/shared/cyverse_training/platform_guides/discovery_enviornment/muscle_3_8_31/01_muscle_input>`_; then click OK.
+   `DE_sample_plants.fas <https://de.cyverse.org/de/?type=data&folder=/iplant/home/shared/cyverse_training/platform_guides/discovery_environment/muscle_3_8_31/01_muscle_input>`_; then click OK.
 
    (Location: *Community Data > cyverse_training > platform_guides > discovery_environment > muscle_3_8_31 > 01_muscle_input*)
 
