@@ -10,7 +10,7 @@ Viewing and Managing Data
 The Discovery Environment allows you to access, view, and manage your files in
 the CyVerse Data Store. You can upload smaller files, but for large files or
 large number of files, we recommend faster methods such as Cyberduck. See the
-`Cyberduck page <https://cyverse-data-store-guide.readthedocs-hosted.com/en/latest/step1.html>`_ in our `Data Store Guide <https://cyverse-data-store-guide.readthedocs-hosted.com/en/latest/>`_ to get started with Cyberduck. 
+`Cyberduck page <https://cyverse-data-store-guide.readthedocs-hosted.com/en/latest/step1.html>`_ in our `Data Store Guide <https://cyverse-data-store-guide.readthedocs-hosted.com/en/latest/>`_ to get started with Cyberduck.
 
 ----
 
@@ -57,7 +57,7 @@ metadata.
 
    **"/iplant/home/shared/cyverse_training/platform_guides/discovery_enviornment/sample_fastq"**
 
-   |viewing_window|.
+   |viewing_window|
 
 4. Preview **sample.fastq** by clicking on the file name.
 

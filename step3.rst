@@ -49,11 +49,13 @@ multiple sequence aligner app, to align some DNA sequences.
     Applications in the Discovery Enviorment **Apps** menu have several features:
     |de_app_icon|
 
-    - |info| **Info**: Information about the App including short description.
+    - |dots| **Dots**: Show additional links including *"App info"*, *"Add to Favorties"*,
+      and *"Comments"*.
+    - |info| **App Info**: Information about the App including short description.
       user manual, number of successful analyses, date of last use, URL link to
       App
     - |comment| **Comment**: Add comments/feedback on the App
-    - |favorite| **Favorite**: Add to your list of favorite Apps
+    - |favorite| **Add to Favorite**: Add to your list of favorite Apps
     - |rating| **Rating**: Rate the app, and see current community rating (may
       indicate how many others liked the App)
     - |unavailable| **Unavailable**: App is disabled; may be outdated, unavailable
@@ -115,6 +117,9 @@ multiple sequence aligner app, to align some DNA sequences.
 .. |private| image:: ./img/de/private.png
       :width: 15
       :height: 15
+.. |dots| image:: ./img/de/dots.png
+      :width: 15
+      :height: 20
 .. |de_app_icon| image:: ./img/de/de_app_icon.png
       :width: 250
       :height: 100

@@ -44,6 +44,19 @@ done from start to finish within the DE.
 	5. Secondary menu titles or headers in single quotes: For the 'Select Input' option choose...
 	####
 
+----
+
+*Need Help?*
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+|intercom_icon| If you get stuck or need help, you can initiate a live chat
+session. Click the Intercom icon (lower-right screen) to initiate a session. If
+no CyVerse staff is available, leave a message and we will get back to you by
+email.
+
+
+
+
 
 ----
 
@@ -68,3 +81,6 @@ done from start to finish within the DE.
 .. |person_icon| image:: ./img/de/person_icon.png
     :width: 15
     :height: 15
+.. |intercom_icon| image:: ./img/de/intercom.png
+    :width: 25
+    :height: 30
