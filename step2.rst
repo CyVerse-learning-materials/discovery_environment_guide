@@ -21,7 +21,7 @@ large number of files, we recommend faster methods such as Cyberduck. See the
 *Navigating the Data Window in the Discovery Environemnt*
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-1. If necessary, login to the `Discovery Environment <https://de.cyverse.org/de/>`_
+1. If necessary, login to the |discovery enviornment|.
 
 2. Click on the data icon |data_icon| to view files accessible to you in the
    Data Store.
@@ -48,14 +48,14 @@ In the DE you can preview many file types include images and plain- or
 delimited-text files. The DE also allows you to associate your data with
 metadata.
 
-1. If necessary, login to the `Discovery Environment <https://de.cyverse.org/de/>`_
+1. If necessary, login to the |discovery enviornment|.
 
 2. Click on **Data** to open the Data Window.
 
-3. View a sample `fastq <https://en.wikipedia.org/wiki/FASTQ_format>`_ file;
-   place the following path in the 'Viewing' feild of the data window:
+3. View a sample fastq file; place the following path in the 'Viewing' feild
+   of the data window:
 
-   **"/iplant/home/shared/cyverse_training/platform_guides/discovery_enviornment/sample_fastq"**
+   **"/iplant/home/shared/cyverse_training/platform_guides/discovery_envirornment/sample_fastq"**
 
    |viewing_window|
 
@@ -88,7 +88,7 @@ Public Link.
   , but less secure method for file transfer. Do not share sensitive/private
   data using these links.
 
-1. If necessary, login to the `Discovery Environment <https://de.cyverse.org/de/>`_
+1. If necessary, login to the |discovery enviornment|.
 
 2. In the Data window, select (checkbox) an individual file you wish to share.
 
@@ -121,7 +121,7 @@ Public Link.
 Share data with another CyVerse user by granting permission to read, write, or
 own files/folders
 
-1. If necessary, login to the `Discovery Environment <https://de.cyverse.org/de/>`_
+1. If necessary, login to the |discovery enviornment|.
 
 2. In the Data window, select (checkbox) file(s), folder(s) you wish to share
    with another user;
@@ -227,4 +227,6 @@ own files/folders
 .. |manage_sharing| image:: ./img/de/manage_sharing_menu.png
     :width: 400
     :height: 300
-..
+.. |discovery enviornment| raw:: html
+
+    <a href="https://de.cyverse.org/de/" target="_blank">https://de.cyverse.org/de/</a>

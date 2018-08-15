@@ -42,7 +42,7 @@ multiple sequence aligner app, to align some DNA sequences.
     * - Muscle
       - 3.8.31
       - Multiple sequence aligner
-      -	`DE App link <https://de.cyverse.org/de/?type=apps&app-id=9b41c9e4-5031-4a49-b1cb-c471335df16e&system-id=de>`_
+      -	|muscle|
       -
 
 .. Tip::
@@ -65,15 +65,16 @@ multiple sequence aligner app, to align some DNA sequences.
 
 *Example Discovery Environment Analysis: Multiple sequence alignment with MUSCLE*
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-1. If necessary, login to the `Discovery Environment <https://de.cyverse.org/de/>`_
+1. If necessary, login to the |discovery enviornment|.
 
 2. Click |apps_icon| **Apps** from the DE workspace; search for MUSCLE 3.8.31 or
-   click this link to `Muscle 3.8.31 <https://de.cyverse.org/de/?type=apps&app-id=9b41c9e4-5031-4a49-b1cb-c471335df16e&system-id=de>`_
+   click this link: |muscle|. (*Tip:* when using the link in this guide, the 
+   Muscle app may start behind other open windows in the DE)
 
 3. Under “Analysis Name” leave the defaults or make any desired notes.
    |muscle_app_window|
 4. Under “Select Input data” click **Browse**, then navigate to and select
-   `DE_sample_plants.fas <https://de.cyverse.org/de/?type=data&folder=/iplant/home/shared/cyverse_training/platform_guides/discovery_environment/muscle_3_8_31/01_muscle_input>`_; then click OK.
+   |de sample plants|; then click OK.
 
    (Location: *Community Data > cyverse_training > platform_guides > discovery_environment > muscle_3_8_31 > 01_muscle_input*)
 
@@ -129,3 +130,14 @@ multiple sequence aligner app, to align some DNA sequences.
 .. |muscle_app_window| image:: ./img/de/muscle_app_window.png
     :width: 425
     :height: 250
+.. |discovery enviornment| raw:: html
+
+    <a href="https://de.cyverse.org/de/" target="_blank">https://de.cyverse.org/de/</a>
+
+.. |muscle| raw:: html
+
+    <a href="https://de.cyverse.org/de/?type=apps&app-id=9b41c9e4-5031-4a49-b1cb-c471335df16e&system-id=de" target="_blank">Muscle 3.8.31</a>
+
+.. |de sample plants| raw:: html
+
+    <a href="https://de.cyverse.org/de/?type=data&folder=/iplant/home/shared/cyverse_training/platform_guides/discovery_environment/muscle_3_8_31/01_muscle_input" target="_blank">DE_sample_plants.fas</a>
