@@ -26,7 +26,7 @@ done from start to finish within the DE.
 *Logging in to the Discovery Environment*
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-  1. Log into the Discovery Environment at |discovery enviornment|.
+  1. Log into the Discovery Environment at |discovery environment|.
 
   .. Tip::
     If you forgot your password, you can reset it at the CyVerse User Portal `https://user.cyverse.org/ <https://user.cyverse.org/>`_
@@ -84,6 +84,6 @@ email.
 .. |intercom_icon| image:: ./img/de/intercom.png
     :width: 25
     :height: 30
-.. |discovery enviornment| raw:: html
+.. |discovery environment| raw:: html
 
     <a href="https://de.cyverse.org/de/" target="_blank">https://de.cyverse.org/de/</a>

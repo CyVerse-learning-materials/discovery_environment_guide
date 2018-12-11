@@ -18,7 +18,7 @@ jobs.
 	#### Comment: short text description goes here ####
 
 
-*Check Discovery Enviornment Job Results*
+*Check Discovery Environment Job Results*
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
   1. Click on **Analyses** from the DE workspace and monitor the status of your
@@ -46,7 +46,7 @@ jobs.
 ----
 
 
-*Save Discovery Enviornment Job Parameters*
+*Save Discovery environment Job Parameters*
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 The analysis menu gives you several options, including saving the parameters
@@ -55,7 +55,7 @@ of a previously used job.
   1. Click on **Analyses** from the DE workspace
   2. Select (checkbox) an analysis; from the *Analysis* menu select *View
      Parameters*
-  3. View the parameters and select "Save As" to save paramters as a text file
+  3. View the parameters and select "Save As" to save parameters as a text file
      in your Data Store.
 
 ----
@@ -73,7 +73,7 @@ launching jobs, and obtaining results.
 **Next Steps:**
 
 - Try a tutorial using the Discovery Environment in the `Learning Center <http://learning.cyverse.org>`_
-- See a complete list of Discovery Environment Applications on the Cyverse Wiki `DE Apps list <https://wiki.cyverse.org/wiki/display/DEapps/Discovery+Environment+Applications+List>`_
+- See a complete list of Discovery Environment Applications on the CyVerse Wiki `DE Apps list <https://wiki.cyverse.org/wiki/display/DEapps/Discovery+Environment+Applications+List>`_
 
 More help and additional information
 `````````````````````````````````````

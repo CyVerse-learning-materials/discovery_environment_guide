@@ -11,7 +11,7 @@
 Goal
 ----
 
-Introduce the Discovery Enviornment (DE) to start managing data, using applications,
+Introduce the Discovery Environment (DE) to start managing data, using applications,
 and managing application history and results. This guide will only cover a limited subset
 of Discovery Environment functionalities; see the `Discovery Environment manual <https://pods.iplantcollaborative.org/wiki/display/DEmanual/Table+of+Contents>`_
 for the full set of documentation.
@@ -27,10 +27,6 @@ for the full set of documentation.
 	Launching an Analysis Job <step3.rst>
 	Checking Job Status and Results <step4.rst>
 
-..
-	#### Comment:This tutorial can have multiple pages. The table of contents assumes
-	you have an additional page called 'Step Owo' with content located in 'step1.rst'
-	Edit these titles and filenames as needed ####
 
 
 Prerequisites

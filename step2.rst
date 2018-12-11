@@ -18,10 +18,10 @@ large number of files, we recommend faster methods such as Cyberduck. See the
 	#### Comment: short text description goes here ####
 
 
-*Navigating the Data Window in the Discovery Environemnt*
+*Navigating the Data Window in the Discovery Environment*
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-1. If necessary, login to the |discovery enviornment|.
+1. If necessary, login to the |discovery environment|.
 
 2. Click on the data icon |data_icon| to view files accessible to you in the
    Data Store.
@@ -34,7 +34,7 @@ large number of files, we recommend faster methods such as Cyberduck. See the
 
     The other directories include:
 
-    - *Community Data*: publically available data hosted on CyVerse
+    - *Community Data*: publicly available data hosted on CyVerse
     - *Shared with me*: data shared with you by CyVerse or individual users
     - *Trash*: data deleted in the Discovery Environment goes here
     - *Favorites*: folder(s) your have marked as favorite will be shown here
@@ -48,11 +48,11 @@ In the DE you can preview many file types include images and plain- or
 delimited-text files. The DE also allows you to associate your data with
 metadata.
 
-1. If necessary, login to the |discovery enviornment|.
+1. If necessary, login to the |discovery environment|.
 
 2. Click on **Data** to open the Data Window.
 
-3. View a sample fastq file; place the following path in the 'Viewing' feild
+3. View a sample fastq file; place the following path in the 'Viewing' field
    of the data window:
 
    **"/iplant/home/shared/cyverse_training/platform_guides/discovery_envirornment/sample_fastq"**
@@ -77,7 +77,7 @@ metadata.
 
 ----
 
-*Share a File in Discovery Enviornment with a URL (Public Link)*
+*Share a File in Discovery Environment with a URL (Public Link)*
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 You can quickly share files in your Data Store using a Discovery Environment
 Public Link.
@@ -88,7 +88,7 @@ Public Link.
   , but less secure method for file transfer. Do not share sensitive/private
   data using these links.
 
-1. If necessary, login to the |discovery enviornment|.
+1. If necessary, login to the |discovery environment|.
 
 2. In the Data window, select (checkbox) an individual file you wish to share.
 
@@ -116,12 +116,12 @@ Public Link.
 
 ----
 
-*Share a File/folder in Discovery Enviornment with Another CyVerse User*
+*Share a File/folder in Discovery Environment with Another CyVerse User*
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Share data with another CyVerse user by granting permission to read, write, or
 own files/folders
 
-1. If necessary, login to the |discovery enviornment|.
+1. If necessary, login to the |discovery environment|.
 
 2. In the Data window, select (checkbox) file(s), folder(s) you wish to share
    with another user;
@@ -227,6 +227,6 @@ own files/folders
 .. |manage_sharing| image:: ./img/de/manage_sharing_menu.png
     :width: 400
     :height: 300
-.. |discovery enviornment| raw:: html
+.. |discovery environment| raw:: html
 
     <a href="https://de.cyverse.org/de/" target="_blank">https://de.cyverse.org/de/</a>

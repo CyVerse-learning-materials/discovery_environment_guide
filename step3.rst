@@ -46,10 +46,10 @@ multiple sequence aligner app, to align some DNA sequences.
       -
 
 .. Tip::
-    Applications in the Discovery Enviorment **Apps** menu have several features:
+    Applications in the Discovery Environment **Apps** menu have several features:
     |de_app_icon|
 
-    - |dots| **Dots**: Show additional links including *"App info"*, *"Add to Favorties"*,
+    - |dots| **Dots**: Show additional links including *"App info"*, *"Add to Favorites"*,
       and *"Comments"*.
     - |info| **App Info**: Information about the App including short description.
       user manual, number of successful analyses, date of last use, URL link to
@@ -59,16 +59,16 @@ multiple sequence aligner app, to align some DNA sequences.
     - |rating| **Rating**: Rate the app, and see current community rating (may
       indicate how many others liked the App)
     - |unavailable| **Unavailable**: App is disabled; may be outdated, unavailable
-      due to maintanance. Contact support@cyverse.org for help using these
+      due to maintenance. Contact support@cyverse.org for help using these
     - |beta| **Beta**: App is in beta testing (leave feedback if you use!)
-    - |private| **Private**: Application is not public and not visiable by all users
+    - |private| **Private**: Application is not public and not visible by all users
 
 *Example Discovery Environment Analysis: Multiple sequence alignment with MUSCLE*
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-1. If necessary, login to the |discovery enviornment|.
+1. If necessary, login to the |discovery environment|.
 
 2. Click |apps_icon| **Apps** from the DE workspace; search for MUSCLE 3.8.31 or
-   click this link: |muscle|. (*Tip:* when using the link in this guide, the 
+   click this link: |muscle|. (*Tip:* when using the link in this guide, the
    Muscle app may start behind other open windows in the DE)
 
 3. Under “Analysis Name” leave the defaults or make any desired notes.
@@ -130,7 +130,7 @@ multiple sequence aligner app, to align some DNA sequences.
 .. |muscle_app_window| image:: ./img/de/muscle_app_window.png
     :width: 425
     :height: 250
-.. |discovery enviornment| raw:: html
+.. |discovery environment| raw:: html
 
     <a href="https://de.cyverse.org/de/" target="_blank">https://de.cyverse.org/de/</a>
 
