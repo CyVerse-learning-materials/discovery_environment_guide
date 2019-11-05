@@ -78,7 +78,15 @@ multiple sequence aligner app, to align some DNA sequences.
 
    (Location: *Community Data > cyverse_training > platform_guides > discovery_environment > muscle_3_8_31 > 01_muscle_input*)
 
-5. Under “Sequence Type”, select **DNA**, and then click **Launch Analysis**. You will receive a notification and may close the Muscle App window.
+5. Under “Sequence Type”, select **DNA**.
+
+6. Under `Resource Requirements <analyses_resource_reqs.html>`_ leave the default settings.
+   If required, some analyses may be launched with requests for more resources,
+   but this may cause those analyses to wait longer in the submission queue
+   until a node that matches those minimum requirements becomes available.
+
+7. Click **Launch Analysis**.
+   You will receive a notification and the Muscle App window will close.
 
 ----
 
