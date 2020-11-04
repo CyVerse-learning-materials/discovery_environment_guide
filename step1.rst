@@ -32,8 +32,6 @@ done from start to finish within the DE.
   .. Tip::
     If you forgot your password, you can reset it at the CyVerse User Portal `https://user.cyverse.org/ <https://user.cyverse.org/>`_
 
-  2. You can take a tour of the DE sections by clicking the |person_icon|
-  (person icon) in the upper right-hand side of the screen and selecting "Introduction"
 
 ..
 	#### Comment: Suggested style guide:
