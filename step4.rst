@@ -47,16 +47,16 @@ jobs.
 ----
 
 
-*Save Discovery environment Job Parameters*
+*Save Discovery Environment Job Parameters*
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-The analysis menu gives you several options, including saving the parameters
-of a previously used job.
+The Analyses menu gives you several options, including saving the parameters
+of a previously run job.
 
   1. Click on **Analyses** from the DE workspace
-  2. Select (checkbox) an analysis; from the *Analysis* menu select *View
+  2. Select (checkbox) an analysis; then from the *Analyses* menu, select *View
      Parameters*
-  3. View the parameters and select "Save As" to save parameters as a text file
+  3. View the parameters and select "Save to file" to save parameters as a text file
      in your Data Store.
 
 ----
