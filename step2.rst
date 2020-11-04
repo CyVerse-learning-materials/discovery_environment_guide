@@ -56,7 +56,7 @@ metadata.
 3. View a sample fastq file; place the following path in the 'Viewing' field
    of the data window:
 
-   **"/iplant/home/shared/cyverse_training/platform_guides/discovery_envirornment/sample_fastq"**
+   **"/iplant/home/shared/cyverse_training/platform_guides/discovery_environment/sample_fastq"**
 
    |viewing_window|
 
