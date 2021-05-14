@@ -4,7 +4,7 @@
 |Home_Icon|_
 `Learning Center Home <http://learning.cyverse.org/>`_
 
-**Discovery Environment Guide**
+**Legacy Discovery Environment Guide**
 ===============================
 
 |DE_logo|
