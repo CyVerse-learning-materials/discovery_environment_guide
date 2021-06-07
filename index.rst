@@ -11,10 +11,8 @@
 Goal
 ----
 
-This guide covers the Legacy Discovery Environment (DE), a computational workspace where you can manage data, use applications and workflows, share with collaborators, and more. A newer guide to the current DE can be found `here <https://learning.cyverse.org/projects/cyverse-de2-guide/en/latest/>`_. 
+This guide introduces the Discovery Environment (DE), a simple web interface where you can manage data, use applications and workflows, share with collaborators, and more. This guide covers a limited subset of Discovery Environment functionalities; see the `Discovery Environment manual <https://pods.iplantcollaborative.org/wiki/display/DEmanual/Table+of+Contents>`_ for the full documentation or view `quick starts, guides and tutorials for more information on specific capabilities <https://learning.cyverse.org/en/latest/index.html>`_.
 
-This legacy guide covers a limited subset of Discovery Environment functionalities; see the `Discovery Environment manual <https://pods.iplantcollaborative.org/wiki/display/DEmanual/Table+of+Contents>`_
-for the full documentation or view `quick starts, guides and tutorials for more information on specific capabilities <https://learning.cyverse.org/en/latest/index.html>`_.
 ----
 
 .. toctree::
