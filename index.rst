@@ -31,10 +31,11 @@ Prerequisites
 -------------
 
 
+
 Downloads, access, and services
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*In order to complete this tutorial you will need access to the following services/software*
+*In order to complete this guide you will need access to the following services/software*
 
 ..
 	#### comment: delete any row not needed in this table ####
@@ -46,7 +47,7 @@ Downloads, access, and services
       - Preparation/Notes
       - Link/Download
     * - CyVerse account
-      - You will need a CyVerse account to complete this exercise
+      - You will need a CyVerse account to complete this guides.
       - `Register <https://user.cyverse.org/>`_
 
 
