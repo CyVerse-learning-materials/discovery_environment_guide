@@ -13,7 +13,15 @@
 Goal
 ----
 
-This guide introduces the Discovery Environment (DE), a simple web interface where you can manage data, use applications and workflows, share with collaborators, and more. This guide covers a limited subset of Discovery Environment functionalities; see the `Discovery Environment manual <https://pods.iplantcollaborative.org/wiki/display/DEmanual/Table+of+Contents>`_ for the full documentation or view `quick starts, guides and tutorials for more information on specific capabilities <https://learning.cyverse.org/en/latest/index.html>`_.
+The Discovery Environment (DE) is an all-purpose informatics web interface, tailored to the needs of researchers with data to analyze but who may lack command line expertise or the compute resources to run software tools and analyses.
+
+
+**Important things to know about the Discovery Environment**
+
+- Your data and data shared with you are stored in CyVerse's cloud-based Data Store and are accessible from anywhere in CyVerse.
+- All computations run on CyVerse’s compute resources, enabling you to run analyses, small to large, beyond what your personal computer can typically handle.
+- If you are up- or downloading data from your desktop/PC, you must remain on the Data view page until the task completes.
+- If you are launching an app or importing data from a URL, you can log out or navigate to another view or operation after you start the task; an automated email notification is sent to you when those tasks are completed.
 
 ----
 
@@ -49,7 +57,7 @@ Downloads, access, and services
       - Preparation/Notes
       - Link/Download
     * - CyVerse account
-      - You will need a CyVerse account to complete this guides.
+      - You will need a CyVerse account to complete this guide.
       - `Register <https://user.cyverse.org/>`_
 
 
