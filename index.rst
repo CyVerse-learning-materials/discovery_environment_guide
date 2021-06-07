@@ -18,12 +18,13 @@ This guide introduces the Discovery Environment (DE), a simple web interface whe
 .. toctree::
 	:maxdepth: 2
 
-	Tutorial home <self>
+	Guide home <self>
 	Logging In <step1.rst>
-	Viewing and Managing Data <step2.rst>
-	Launching an Analysis Job <step3.rst>
-	Checking Job Status and Results <step4.rst>
-
+	Searching <step2.rst>
+	Sharing <step3.rst>
+	Managing Data <step4.rst>
+	Using Apps <step5.rst>
+	Managing Analyses <step6.rst>
 
 
 Prerequisites
