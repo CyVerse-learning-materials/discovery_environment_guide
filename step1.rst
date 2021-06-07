@@ -8,14 +8,14 @@
 Logging In
 ----------
 
+When you first arrive at |the DE|, you'll see the Dashboard. You can freely explore the Dashboard information, but to perform any tasks, you must have an account and be logged in.
+
+-----
+
 *Viewing the Dashboard*
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-When you first arrive at |the DE|, you'll see the Dashboard. The Dashboard provides an overview of recent activity in CyVerse and the
-Discovery Environment. Here you can see CyVerse-related news and events, video tutorials, and newly released public apps. Also, items specific to your activity will appear here, such as your recently launched analyses and newly integrated apps that
-you've been working on. The Dashboard's left sidebar shows icons for accessing Data, Apps, Analyses, Teams, and Help.
-
-You can freely explore the Dashboard information, but to perform any tasks, you must have an account and be logged in.
+The Dashboard provides an overview of recent activity in CyVerse and the Discovery Environment. Here you can see CyVerse-related news and events, video tutorials, and newly released public apps. Also, items specific to your activity will appear here, such as your recently launched analyses and newly integrated apps that you've been working on. The Dashboard's left sidebar shows icons for accessing Data, Apps, Analyses, Teams, and Help. You can log in from the Dashboard to get started.
 
 
 *Logging in*
