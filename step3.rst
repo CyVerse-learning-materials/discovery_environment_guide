@@ -1,34 +1,165 @@
 .. include:: cyverse_rst_defined_substitutions.txtI
+.. include:: custom_urls.txt
+
+
 |CyVerse logo|_
 
 |Home_Icon|_
 `Learning Center Home <http://learning.cyverse.org/>`_
 
 
-Launching an Analysis Job
+Using Apps
 -------------------------
 
-When you are ready to analyze data, you can select from one of several hundred
-applications in the Discovery Environment. We will cover the minimum you need to
-launch an analysis using some sample data. In this example, we will use the **Muscle**
-multiple sequence aligner app, to align some DNA sequences.
+You can select from several hundred applications (apps) available in the Discovery Environment when you are ready to analyze your data.
+
+
+*Browsing Apps*
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+You must be logged in to browse and use apps.
+
+Click |DE Apps Navigation Icon| in the left sidebar of the DE to see the Apps view. When you first access the Apps view, you may be prompted to log in. After logging in, you will see a screen that looks something like this:
+
+
+|DE App Listing|
+
+
+*Sorting and Filtering Apps*
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+To sort the list of apps in ascending or descending order by app name, the name of the person who integrated the app in CyVerse, or its average rating, click on the column headings.
+
+You can navigate between pages and change how many apps are listed on a page by using the < or > controls at the bottom of the page.
+
+By default, the Apps view displays all apps that are available to you. With hundreds of apps and sometimes many versions of an app in the DE, you may want to view a subset of all available apps. There are two ways to do this. First, in the upper left corner of the Apps view, the currently active subset of apps is shown as the primary filter. Click the drop-down arrow next to the currently active subset to select a different apps subset to display:
+
+
+The currently selected app subset is highlighted in gray. The available app subsets are:
+
+
+
+.. list-table::
+    :header-rows: 1
+
+
+    * - Application type
+      - Description
+    * - Apps under development
+      - Apps that you have added to the DE that have not been made public
+    * - Favorite apps
+      - Apps that you have marked as favorite apps in the DE
+    * - My public apps
+      - Apps that you have added to the DE that have been made publicly
+        available
+    * - Shared with me
+      - Apps that other users have shared with you
+    * - High-Performance Computing
+      - Apps that run at the Texas Advanced Computing Center using the |TAPIS
+        API|
+    * - Browse All Apps
+      - All apps available to you in the DE
+
+
+You can further reduce the list of the apps displayed by selecting a filter. Click the drop-down arrow in the Filter control (upper right corner of the Apps view) to select the type of apps you'd like to see in the listing:
+
+
+|DE App Filter|
+
+
+The currently selected filter is displayed in the Filter control itself. If no filter is selected, the control will be empty. The currently available app filters are:
+
+
+
+.. list-table::
+    :header-rows: 1
+
+
+    * - Application filter
+      - Description
+    * - HPC
+      - High Performance Computing apps that run using the |TAPIS
+        API| (formerly known as Agave)
+    * - DE
+      - Executable (non-interactive apps) that run on CyVerse computing
+        resources
+    * - VICE (formerly Interactive)
+      - Interactive apps (e.g., Jupyter, RStudio, R Shiny) and other apps with
+        their own interactive interfaces
+    * - Open Science Grid (OSG)
+      - Executable (non-interactive apps) that run on OSG
+        resources
+
+
+The app filter you selected will be displayed in the Filter control:
+
+
+|DE Selected App Filter|
+
+
+To dismiss a filter, click the `X` to the right of the filter name.
+
+
+
+
+*Viewing App Details*
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+When you've found an app of interest, select it by clicking the checkbox to the left of the app name. A *Details* button will appear in the upper right corner of the Apps view, just to the right of the Filter control.
+
+
+|DE App Details Button|
+
+
+Click the Details button to see additional information about the app (e.g., description, number of times run, etc.).
+
+
+|DE App Details|
+
+
+The Details panel has several controls available. Click the Heart icon to add that app to your list of favorite apps (to remove from your favorite list, click the heart again). The heart will be solid blue if the app is already on your list of favorites. Click the Link icon to display a link to the app that you can copy and share with other CyVerse users. The Stars icon labeled :guilabel:`Your rating` allows you to rate the app. The :guilabel:`Tools used by this
+App` tab contains information about the underlying tools (steps) the app uses to perform an analysis. To dismiss the App Details view, click anywhere outside the panel.
+
+
+ ..  tip::
+
+
+     Favorite your frequently used apps to make them easier to find.
+
+
+
+
+*About VICE Apps*
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+One type of app that you can filter for in the Discovery Environment is VICE apps (VICE stands for Visual Interactive Computing Environment and is a part of the Discovery Environment). VICE apps are executable apps that run as workflows on high performance or high throughput computing environments and include a Graphical User Interface (GUI) or an Integrated Development Environment (IDE) such as Project Jupyter, RStudio, or remote desktops to the DE.
+
+
+You must request access and be approved to use VICE apps through the CyVerse User Portal |user portal|. Read more about VICE apps here <https://learning.cyverse.org/projects/vice/en/latest/getting_started/about.html>.
+
+
+
+
+*Advanced Features*
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+The Discovery Environment also supports advanced features for apps such as integrating different types of apps into the DE, creating and running containers, and using Application Programming Interfaces (APIs) for programmatic backend access to CyVerse services. For how-to information on these features, see our Quick Start Guides <https://learning.cyverse.org/en/latest/quick_starts.html>, Tool and App Integration Guide <https://learning.cyverse.org/en/latest/tools_and_apps.html>, and our Tutorials <https://learning.cyverse.org/en/latest/tutorials.html>.
+
+
+----
+
+
+
+
 
 ----
 
 ..
 	#### Comment: short text description goes here ####
 
-**Example Data**
-
-.. list-table::
-    :header-rows: 1
-
-    * - Input
-      - Description
-      - Example
-    * - Unaligned DNA sequence reads
-      - One or more sequences in FASTA format
-      - `DE_sample_plants.fas <http://datacommons.cyverse.org/browse/iplant/home/shared/cyverse_training/platform_guides/discovery_environment/muscle_3_8_31/01_muscle_input/DE_sample_plants.fas>`_
 
 **Discovery Environment App(s):**
 

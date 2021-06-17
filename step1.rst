@@ -53,14 +53,8 @@ You can take a short tour of the DE's main features by clicking the |Help| icon 
 
 **Fix or improve this documentation:**
 
-
-- Search for an answer:
-  |CyVerse Learning Center|
-- Get help:
-   click |Help| icon in the upper right corner of the page
-- Report an issue or submit a change:
-  |Github Repo Link|
-- Send feedback: `learning@CyVerse.org <learning@CyVerse.org>`_
+- On Github: `Repo link <https://github.com/CyVerse-learning-materials/discovery_environment_guide>`_
+- Send feedback: `Tutorials@CyVerse.org <Tutorials@CyVerse.org>`_
 
 ----
 
