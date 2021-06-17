@@ -1,93 +1,46 @@
 .. include:: cyverse_rst_defined_substitutions.txtI
+.. include:: custom_urls.txt
+
 |CyVerse logo|_
 
 |Home_Icon|_
 `Learning Center Home <http://learning.cyverse.org/>`_
 
 
-Checking Job Status and Results
--------------------------------
-
-The Discovery Environment maintains a detailed history of jobs you have previously
-launched. Using the Analysis console you can also view the status of jobs in progress,
-cancel jobs, relaunch jobs, and view and save the parameters of previously launched
-jobs.
-
-----
-
-..
-	#### Comment: short text description goes here ####
+Using Search
+------------------------------------------
 
 
-*Check Discovery Environment Job Results*
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-  1. Click on **Analyses** from the DE workspace and monitor the status of your
-     submitted job (You may have to click refresh to view updated status).
-
-  2. In the Analysis console, once your status appears as ‘Completed,’ click on
-     the name of your analysis to navigate you to the results.
-
-.. list-table::
-    :header-rows: 1
-
-    * - Output
-      - Description
-      - Example
-    * - Your output will include a folder of logs as well as multiple sequence
-        alignments in several formats.
-      - - logs/
-        - clustalw.aln
-        - fasta.aln
-        - phylip_interleaved.aln
-        - phylip_sequential.aln
-      -
-        - `Example output on CyVerse Data Commons <http://datacommons.cyverse.org/browse/iplant/home/shared/cyverse_training/platform_guides/discovery_environment/muscle_3_8_31/02_muscle_output>`_
-        - `Example output on DE <https://de.cyverse.org/de/?type=data&folder=/iplant/home/shared/cyverse_training/platform_guides/discovery_environment/muscle_3_8_31/02_muscle_output>`_
-----
+Use Search from anywhere within the Discovery Environment to find *Data*, *Apps*, and *Analyses*. The Search box |search icon| is located at the top of the page.
 
 
-*Save Discovery environment Job Parameters*
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+------
 
-The analysis menu gives you several options, including saving the parameters
-of a previously used job.
 
-  1. Click on **Analyses** from the DE workspace
-  2. Select (checkbox) an analysis; from the *Analysis* menu select *View
-     Parameters*
-  3. View the parameters and select "Save As" to save parameters as a text file
-     in your Data Store.
+*Searching Data, Apps, and Analyses*
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-----
+To search, you do not need to be logged in, however you need to be logged in to perform any tasks with data, apps or analyses.
 
-*Summary*
-~~~~~~~~~
+1. In the Search box, start typing at least the first three characters of the name of the item of interest. Search will automatically begin (within the default “All” resources) once you have typed three or more characters of the item name.
 
-Using MUSCLE as an example, you have gotten an overview of how most of the
-applications within the Discovery Environment work - from managing data, to
-launching jobs, and obtaining results.
 
-..
-    Summary
+2. Search results will be displayed as a dropdown list grouped by **Apps**, **Analyses**, or **Data**.
 
-**Next Steps:**
 
-- Try a tutorial using the Discovery Environment in the `Learning Center <http://learning.cyverse.org>`_
-- See a complete list of Discovery Environment Applications on the CyVerse Wiki `DE Apps list <https://wiki.cyverse.org/wiki/display/DEapps/Discovery+Environment+Applications+List>`_
+ |Global_Search|
 
-More help and additional information
-`````````````````````````````````````
 
-..
-    Short description and links to any reading materials
+.. Tip::     To limit your search to just **Apps** or **Analyses** or **Data**, click the dropdown arrow on the right side of the Search box to select the desired filter.
 
-Search for an answer:
-    `CyVerse Learning Center <http://learning.cyverse.org>`_ or
-    `CyVerse Wiki <https://wiki.cyverse.org>`_
 
-Post your question to the user forum:
-    `Ask CyVerse <http://ask.iplantcollaborative.org/questions>`_
+3. Click on the desired result from the listing.
+
+
+.. Tip::     Only the top **10 results** are shown by default. To see all the results associated with a *search term*, including “Community Data” or “Shared with Me” results for Data, hit the *enter* key after the *search term* or select the option similar to *View all analyses results for fasta* from the results dropdown.
+
+
+|Detailed_Search_Results|
 
 ----
 

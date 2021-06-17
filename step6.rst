@@ -1,83 +1,235 @@
 .. include:: cyverse_rst_defined_substitutions.txtI
+.. include:: custom_urls.txt
+
 |CyVerse logo|_
 
 |Home_Icon|_
 `Learning Center Home <http://learning.cyverse.org/>`_
 
 
-Checking Job Status and Results
--------------------------------
+Sharing and Using Bags
+------------------------------------------
 
-The Discovery Environment maintains a detailed history of jobs you have previously
-launched. Using the Analysis console you can also view the status of jobs in progress,
-cancel jobs, relaunch jobs, and view and save the parameters of previously launched
-jobs.
-
-----
-
-..
-	#### Comment: short text description goes here ####
+You can share data, apps, and analyses using the |share icon| with one or more CyVerse users through the Discovery Environment. The “Bag” |bag icon| is a handy feature in the DE you can use to gather and download or share multiple data files, apps, or analyses or any combination of those resources with another user(s). There is no limit to the number of items you can put in a bag but you can only share files you own.
 
 
-*Check Discovery Environment Job Results*
+*Sharing Data*
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+You must be logged in to share resources.
+
+
+1. Open the **Data** view of your home directory by clicking on |Data_icon| in the left sidebar.
+
+
+2. Select the data resource(s) you wish to share; then click the Share button |share icon|.
+
+
+3. In the Sharing dialog that opens, check that the resources you wish to share are shown.
+
+
+   |Data_sharing|
+
+
+4. In the Search checkbox, search for the CyVerse user(s) you wish to share with by typing their full CyVerse username or email address. Subsequent searches will more quickly find names from your previous “Shared with” lists.
+
+5. Next, under "Permission", choose which type of permission to grant the person(s) you are sharing resources with. You can also “Remove” access using the Permission dialog box.
+
+6. When you are finished, click "Done" to begin sharing. The user(s) will be notified that resources have been shared with them and will see the shared item(s) in their “Shared With Me” folder when they log in.
+
+   .. hint::
+      Permissions (based on UNIX permissions) are described in this chart:
+
+
+      .. list-table::
+          :header-rows: 1
+
+
+          * - Permission level
+            - Read
+            - Download/Save
+            - Metadata
+            - Rename
+            - Move
+            - Delete
+          * - Read
+            - **X**
+            - **X**
+            - **View**
+            -
+            -
+            -
+          * - Write
+            - **X**
+            - **X**
+            - **Add/Edit**
+            -
+            -
+            -
+          * - Own
+            - **X**
+            - **X**
+            - **Add/Edit**
+            - **X**
+            - **X**
+            - **X**
+
+
+*Sharing Apps*
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+You must be logged in to share resources.
+
+
+1. Open the **Apps** view by clicking on the |Apps_icon| in the left sidebar.
+
+
+2. Select your app(s) or apps you are building that you wish to share with another user(s) or your team; then click the Share button |share icon|.
+
+
+3. In the Sharing dialog that opens, check that the app(s) you wish to share is shown.
+
+
+    |Apps_sharing|
+
+4. In the Search box at the top of the page, start typing the CyVerse username, team name, or email address of the CyVerse user(s) with whom you want to share. Search will start when you enter at least three characters. There is no limit to how many users you can share files and analyses with.
+
+
+5. Next, under "Permission", choose which type of permission you want to grant the person(s) or team you are sharing the app(s) with.
+
+
+6. Once you are finished, click “Done” to begin sharing. The user(s) will be notified that app(s) have been shared with them when they log in.
+
+
+   .. hint::
+      Permissions (based on UNIX permissions) are described in this chart:
+
+
+      .. list-table::
+          :header-rows: 1
+
+
+          * - Permission level
+            - Launch
+            - Edit
+            - Share
+            - Make Public
+          * - Read
+            - **X**
+            -
+            -
+            -
+          * - Write
+            - **X**
+            - **X**
+            -
+            -
+          * - Own
+            - **X**
+            - **X**
+            - **X**
+            - **X**
+
+
+
+*Sharing Analyses*
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-  1. Click on **Analyses** from the DE workspace and monitor the status of your
-     submitted job (You may have to click refresh to view updated status).
 
-  2. In the Analysis console, once your status appears as ‘Completed,’ click on
-     the name of your analysis to navigate you to the results.
+You must be logged in to share resources.
 
-.. list-table::
-    :header-rows: 1
 
-    * - Output
-      - Description
-      - Example
-    * - Your output will include a folder of logs as well as multiple sequence
-        alignments in several formats.
-      - - logs/
-        - clustalw.aln
-        - fasta.aln
-        - phylip_interleaved.aln
-        - phylip_sequential.aln
-      -
-        - `Example output on CyVerse Data Commons <http://datacommons.cyverse.org/browse/iplant/home/shared/cyverse_training/platform_guides/discovery_environment/muscle_3_8_31/02_muscle_output>`_
-        - `Example output on DE <https://de.cyverse.org/de/?type=data&folder=/iplant/home/shared/cyverse_training/platform_guides/discovery_environment/muscle_3_8_31/02_muscle_output>`_
+1. Open the **Analyses** view by clicking on the |Analyses_icon| in the left sidebar.
+
+
+2. Select one or more analyses you wish to share with another user(s); then click the Share button |share icon| in the upper right corner of the page
+
+
+3. In the Sharing dialog that opens, ensure that the analyses you wish to share are shown under Resources.
+
+
+    |Analyses_sharing|
+
+
+4. In the Search box at the top of the page, search for the CyVerse user(s) you wish to share with by typing their full CyVerse username, team name or email address. Search will begin when you have typed at least three characters. Click the desired user(s). There is no limit to how many users you can share files and analyses with.
+
+
+6. Next, under "Permission"[g], choose which type of permission to grant the person(s) you are sharing the analyses with.
+
+
+7. When you are finished, click “Done” to begin sharing. The user(s) will be notified that analyses have been shared with them when they log in.
+
+
+   .. hint::
+      Permissions (based on UNIX permissions) are described in this chart:
+
+
+      .. list-table::
+          :header-rows: 1
+
+
+          * - Permission level
+            - Read
+            - Download/Save
+            - Metadata
+            - Rename
+            - Move
+            - Delete
+          * - Read
+            - **X**
+            - **X**
+            - **View**
+            -
+            -
+            -
+          * - Write
+            - **X**
+            - **X**
+            - **Add/Edit**
+            -
+            -
+            -
+          * - Own
+            - **X**
+            - **X**
+            - **Add/Edit**
+            - **X**
+            - **X**
+            - **X**
+
+
+*Using a Bag to Share*
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+You can share or download multiple items using the “Bag” |bag icon| feature in the Discovery Environment. You must be logged in to use a bag.
+
+
+1. To share file(s) using a bag, open the Data, Apps or the Analyses view (or each consecutively), select one or more files, and click “Add to Bag” |add to bag icon| in the upper right corner. A red dot will appear on the |bag icon| to show how many resources are currently in the bag.
+
+
+2. There is no limit to the number of items you can share in a bag.
+
+
+3. When you’ve finished adding all the files (data, apps or analyses) you want to share in the bag, you can share the bag with another CyVerse user(s) by clicking on the |bag icon|. In the dialog box that opens, all the files you have put in the bag are listed by default. Use the dropdown arrow to show downloadable or shareable files.
+
+
+4. You can “Share” the contents of the bag by clicking on the “Share” button. Another dialog box will open where you can set Permissions for the user(s) with whom you are sharing files.
+
+
+5. To download the bag’s contents to your computer, click “Download” and then click on each of the links for the files.
+
+
+6. Sharing the contents of a bag will not empty the bag. You can share the same contents with another user(s); to empty the bag, click on the |bag icon| then cick the “Clear” button.
+
+.. tip::
+
+    There is no prompt or warning once you click “Clear”, so the bag will be emptied immediately.
+
+
+
 ----
 
-
-*Save Discovery environment Job Parameters*
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-The analysis menu gives you several options, including saving the parameters
-of a previously used job.
-
-  1. Click on **Analyses** from the DE workspace
-  2. Select (checkbox) an analysis; from the *Analysis* menu select *View
-     Parameters*
-  3. View the parameters and select "Save As" to save parameters as a text file
-     in your Data Store.
-
-----
-
-*Summary*
-~~~~~~~~~
-
-Using MUSCLE as an example, you have gotten an overview of how most of the
-applications within the Discovery Environment work - from managing data, to
-launching jobs, and obtaining results.
-
-..
-    Summary
-
-**Next Steps:**
-
-- Try a tutorial using the Discovery Environment in the `Learning Center <http://learning.cyverse.org>`_
-- See a complete list of Discovery Environment Applications on the CyVerse Wiki `DE Apps list <https://wiki.cyverse.org/wiki/display/DEapps/Discovery+Environment+Applications+List>`_
-
-More help and additional information
-`````````````````````````````````````
 
 ..
     Short description and links to any reading materials
