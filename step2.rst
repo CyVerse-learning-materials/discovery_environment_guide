@@ -31,11 +31,11 @@ You must be logged in to browse your data.
 
 1. To see and browse through information about your data files in the Data view, press the :guilabel:`&Customize Columns` button to select more (or fewer) columns to display, such as size, modification date, permissions, etc.
 
-2. If the folder you're viewing has many items in it, use the < or > at the bottom of the screen to move between pages. You can also change the number of items displayed per page.
+2. If the folder you're viewing has many items in it, use the < or > at the bottom of the page to move between pages. You can also change the number of items displayed per page.
 
 3. Click on the name of a subfolder to open that folder. As you access folders or files within your directory, breadcrumbs near the top of the page show the folder you are viewing and its parent folder(s).
 
-4. From the top left, at the start of the breadcrumbs, you may select another root folder to view from within your home folder; clicking on the drop-down near your username will allow you to browse folders/files in "Shared With Me", "Community Data", or "Trash".
+4. From the top left, at the start of the breadcrumbs, you may select another root folder to view from within your home folder; clicking on the dropdown near your username will allow you to browse folders/files in "Shared With Me", "Community Data", or "Trash".
 
 
 *Viewing File/Folder Details*
@@ -68,9 +68,13 @@ You must be logged in to delete files/folders.
 *Uploading/Importing Small Files*
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-You can upload smaller files (<2GB) using the DE interface. For larger files or large numbers of files, using methods such as Cyberduck or iCommands is faster and recommended. See the documentation for those tools in our |Data Store Guide|.
+You can use the DE interface to upload smaller files (<2GB). For larger files or large numbers of files, we recommend using faster methods such as Cyberduck or iCommands. See the documentation for those tools in our |Data Store Guide|.
 
-You must be logged in to upload/import files.
+**Important**
+
+- When up- or downloading data from your desktop/PC, you must remain on the Data view until the task completes.
+- When importing data from a URL, you can log out or navigate to another page or operation after you start the import; an automated email notification is sent to you when the task is complete.
+- You must be logged in to upload/import files.
 
 1. Click the **Data** button |Data Icon| in the Discovery Environment’s left sidebar to access the Data view.
 
@@ -93,7 +97,7 @@ You must be logged in to upload/import files.
 
 
 
-4. When you have begun the upload, you will get an automated notification that the file(s) has been queued. To view the status of an upload or import,  go click the **Upload** button and choose **View Upload Queue**.
+4. When you have begun the upload, you will get an automated notification that the file(s) has been queued. To view the status of an upload or import, go click the **Upload** button and choose **View Upload Queue**.
 
 
    |upload queue|
@@ -102,7 +106,7 @@ You must be logged in to upload/import files.
    .. Note::
 
 
-     The queue will only display the status of uploads from local files. Files imported by URL will generate an automated notification (bell icon, upper-right) upon completion or failure to upload.
+     The queue will only display the status of uploads from local files. Files imported by URL will generate an automated notification (bell icon, upper-right) upon completion (or failure) to upload.
 
 
 
@@ -110,7 +114,7 @@ You must be logged in to upload/import files.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-The Discovery Environment also supports advanced data management tasks such as organizing your datasets, associating data with metadata, requesting a Digital Object Identifier (DOI), and importing or submitting data to/from NCBI SRA. For how-to information on these advanced features, see our Quick Start Guides <https://learning.cyverse.org/en/latest/quick_starts.html> and our Tutorials <https://learning.cyverse.org/en/latest/tutorials.html>.
+The Discovery Environment also supports advanced data management tasks such as organizing your datasets, associating data with metadata, requesting a Digital Object Identifier (DOI), and importing or submitting data to/from NCBI SRA. For information on these advanced features, see our Quick Start Guides <https://learning.cyverse.org/en/latest/quick_starts.html> and our Tutorials <https://learning.cyverse.org/en/latest/tutorials.html>.
 
 
 
@@ -130,9 +134,13 @@ The Discovery Environment also supports advanced data management tasks such as o
 
 **Fix or improve this documentation:**
 
-- On Github: `Repo link <https://github.com/CyVerse-learning-materials/discovery_environment_guide>`_
+- Search for an answer:
+  |CyVerse Learning Center|
+- Ask us for help:
+  click |Intercom| on the lower right-hand side of the page
+- Report an issue or submit a change:
+  |Github Repo Link|
 - Send feedback: `Tutorials@CyVerse.org <Tutorials@CyVerse.org>`_
-
 
 ----
 

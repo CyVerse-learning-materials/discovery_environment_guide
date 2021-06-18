@@ -14,6 +14,10 @@ Using Apps
 You can select from several hundred applications (apps) available in the Discovery Environment when you are ready to analyze your data.
 
 
+**Important**
+
+- When launching an app, you can log out or navigate to another page or operation after you start the task; an automated email notification is sent to you when those tasks are completed.
+
 *Browsing Apps*
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 

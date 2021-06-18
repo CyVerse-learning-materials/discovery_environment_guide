@@ -1,4 +1,6 @@
 .. include:: cyverse_rst_defined_substitutions.txtI
+.. include:: custom_urls.txt
+
 
 |CyVerse logo|_
 
@@ -20,8 +22,8 @@ The Discovery Environment (DE) is an all-purpose informatics workspace, with an 
 
 - All data (yours, shared, and public) are stored in CyVerse’s cloud-based Data Store and are accessible from anywhere in CyVerse, including the DE.
 - All computations run on CyVerse’s compute resources, enabling you to run analyses, small to large, beyond what your personal computer can typically handle.
-- When up- or downloading data from your desktop/PC, you must remain on the Data view page until the task completes.
-- When launching an app or importing data from a URL, you can log out or navigate to another view or operation after you start the task; an automated email notification is sent to you when those tasks are completed.
+
+- When launching an app or importing data from a URL, you can log out or navigate to another page or operation after you start the task; an automated email notification is sent to you when those tasks are completed.
 
 ----
 
@@ -48,8 +50,7 @@ The Discovery Environment (DE) is an all-purpose informatics workspace, with an 
 	------------------------
 
 
-	Please contact the Maintainer(s) if this guide needs fixing. You can also email
-	`learning@CyVerse.org <learning@CyVerse.org>`_
+	Please contact the Maintainer(s) if this guide needs fixing. You can also email `Tutorials@CyVerse.org <Tutorials@CyVerse.org>`_
 
 
 	.. list-table::
@@ -66,9 +67,18 @@ The Discovery Environment (DE) is an all-purpose informatics workspace, with an 
 
 	----
 
+	.. list-table::
+	    :header-rows: 1
+
+	    * - Maintainer
+	      - Institution
+	      - Contact
+	    * - Tina Lee, Amanda Cooksey, Shelley Littin
+	      - CyVerse / University of Arizona
+	      - tutorials@cyverse.org
+
 Prerequisites
 -------------
-
 
 
 Downloads, access, and services
@@ -114,14 +124,18 @@ Platform(s)
 			  - Web/Point-and-click
 			  - |Discovery Environment|
 			  - |Discovery Environment Guide|
-				
+
 ----
 
 **Fix or improve this documentation**
 
-- On Github: `Repo link <https://github.com/CyVerse-learning-materials/discovery_environment_guide>`_
+- Search for an answer:
+  |CyVerse Learning Center|
+- Ask us for help:
+  click |Intercom| on the lower right corner of the page
+- Report an issue or submit a change:
+  |Github Repo Link|
 - Send feedback: `Tutorials@CyVerse.org <Tutorials@CyVerse.org>`_
-
 ----
 
 |Home_Icon|_
