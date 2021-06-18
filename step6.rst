@@ -10,7 +10,7 @@
 Sharing and Using Bags
 ------------------------------------------
 
-You can share data, apps, and analyses using the |share icon| with one or more CyVerse users through the Discovery Environment. The “Bag” |bag icon| is a handy feature in the DE you can use to gather and download or share multiple data files, apps, or analyses or any combination of those resources with another user(s). There is no limit to the number of items you can put in a bag but you can only share files you own.
+You can share data, apps, and analyses using the |share icon| with one or more CyVerse users through the Discovery Environment. The “Bag” |bag icon| is a handy feature in the DE that you can use to gather and download or share multiple data files, apps, and analyses or any combination of those resources with another user(s). There is no limit to the number of items you can put in a bag but you can only share files you own.
 
 
 *Sharing Data*
@@ -85,7 +85,7 @@ You must be logged in to share resources.
 1. Open the **Apps** view by clicking on the |Apps_icon| in the left sidebar.
 
 
-2. Select your app(s) or apps you are building that you wish to share with another user(s) or your team; then click the Share button |share icon|.
+2. Select your app(s) or app(s) you are building that you wish to share with another user(s) or your team; then click the Share button |share icon|.
 
 
 3. In the Sharing dialog that opens, check that the app(s) you wish to share is shown.
@@ -143,7 +143,7 @@ You must be logged in to share resources.
 1. Open the **Analyses** view by clicking on the |Analyses_icon| in the left sidebar.
 
 
-2. Select one or more analyses you wish to share with another user(s); then click the Share button |share icon| in the upper right corner of the page
+2. Select one or more analyses you wish to share with another user(s); then click the Share button |share icon| in the upper right corner of the page.
 
 
 3. In the Sharing dialog that opens, ensure that the analyses you wish to share are shown under Resources.
@@ -152,7 +152,7 @@ You must be logged in to share resources.
     |Analyses_sharing|
 
 
-4. In the Search box at the top of the page, search for the CyVerse user(s) you wish to share with by typing their full CyVerse username, team name or email address. Search will begin when you have typed at least three characters. Click the desired user(s). There is no limit to how many users you can share files and analyses with.
+4. In the Search box at the top of the page, search for the CyVerse user(s) you wish to share with by typing their full CyVerse username, team name or email address. Search will begin when you have typed at least three characters. Click the desired user(s). There is no limit to how many users you can share analyses with.
 
 
 6. Next, under "Permission"[g], choose which type of permission to grant the person(s) you are sharing the analyses with.
@@ -199,7 +199,7 @@ You must be logged in to share resources.
             - **X**
 
 
-*Using a Bag to Share*
+*Using a Bag to Share or Download*
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 You can share or download multiple items using the “Bag” |bag icon| feature in the Discovery Environment. You must be logged in to use a bag.
@@ -211,7 +211,7 @@ You can share or download multiple items using the “Bag” |bag icon| feature 
 2. There is no limit to the number of items you can share in a bag.
 
 
-3. When you’ve finished adding all the files (data, apps or analyses) you want to share in the bag, you can share the bag with another CyVerse user(s) by clicking on the |bag icon|. In the dialog box that opens, all the files you have put in the bag are listed by default. Use the dropdown arrow to show downloadable or shareable files.
+3. When you’ve finished adding all the files (data, apps or analyses) you want to share in the bag, share the bag with another CyVerse user(s) by clicking on the |bag icon|. In the dialog box that opens, all the files you have put in the bag are listed by default. Use the dropdown arrow to show downloadable or shareable files.
 
 
 4. You can “Share” the contents of the bag by clicking on the “Share” button. Another dialog box will open where you can set Permissions for the user(s) with whom you are sharing files.
@@ -220,7 +220,7 @@ You can share or download multiple items using the “Bag” |bag icon| feature 
 5. To download the bag’s contents to your computer, click “Download” and then click on each of the links for the files.
 
 
-6. Sharing the contents of a bag will not empty the bag. You can share the same contents with another user(s); to empty the bag, click on the |bag icon| then cick the “Clear” button.
+6. Sharing or downloading the contents of a bag does not empty the bag. You can share the same contents with another user(s); to empty the bag, click on the |bag icon| then click the “Clear” button.
 
 .. tip::
 
@@ -234,18 +234,17 @@ You can share or download multiple items using the “Bag” |bag icon| feature 
 ..
     Short description and links to any reading materials
 
-Search for an answer:
-    `CyVerse Learning Center <http://learning.cyverse.org>`_ or
-    `CyVerse Wiki <https://wiki.cyverse.org>`_
 
-Post your question to the user forum:
-    `Ask CyVerse <http://ask.iplantcollaborative.org/questions>`_
-
-----
 
 **Fix or improve this documentation:**
 
-- On Github: `Repo link <https://github.com/CyVerse-learning-materials/discovery_environment_guide>`_
+
+- Search for an answer:
+  |CyVerse Learning Center|
+- Ask us for help:
+  click |Intercom| on the lower right-hand side of the page
+- Report an issue or submit a change:
+  |Github Repo Link|
 - Send feedback: `Tutorials@CyVerse.org <Tutorials@CyVerse.org>`_
 
 ----

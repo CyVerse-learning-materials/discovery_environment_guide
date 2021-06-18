@@ -11,7 +11,7 @@ Managing Analyses
 --------------------------------------------------------------------
 
 
-An analysis is the product of a launched app that has completed its computational analysis of input data. The Discovery Environment maintains a history of all your analyses, including a unique analysis ID, launch date, input files, and other details.
+An analysis is the product of a launched app that has completed its computation of input data. The Discovery Environment maintains a history of all your analyses, including a unique analysis ID, launch date, input files, and other details.
 
 
 ----
@@ -40,18 +40,17 @@ You must be logged in to manage analyses.
 ..
     Short description and links to any reading materials
 
-Search for an answer:
-    `CyVerse Learning Center <http://learning.cyverse.org>`_ or
-    `CyVerse Wiki <https://wiki.cyverse.org>`_
-
-Post your question to the user forum:
-    `Ask CyVerse <http://ask.iplantcollaborative.org/questions>`_
 
 ----
 
 **Fix or improve this documentation:**
 
-- On Github: `Repo link <https://github.com/CyVerse-learning-materials/discovery_environment_guide>`_
+- Search for an answer:
+  |CyVerse Learning Center|
+- Ask us for help:
+  click |Intercom| on the lower right-hand side of the page
+- Report an issue or submit a change:
+  |Github Repo Link|
 - Send feedback: `Tutorials@CyVerse.org <Tutorials@CyVerse.org>`_
 
 ----
