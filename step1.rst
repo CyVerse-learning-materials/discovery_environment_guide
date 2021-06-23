@@ -2,7 +2,6 @@
 .. include:: custom_ursl.txt
 
 |CyVerse_logo|_
-
 |Home_Icon|_
 `Learning Center Home <http://learning.cyverse.org/>`_
 
@@ -10,32 +9,34 @@
 Logging In
 ----------
 
-The Discovery Environment (DE) was designed to be an all-purpose bioinformatics
-workbench – tailored to the needs of biologists who have data to analyze but who
-may not have command line expertise. Many popular bioinformatics analyses and
-workflows (e.g. genome assembly, RNA-Seq, phylogeny methods, GWAS, etc.) can be
-done from start to finish within the DE.
+When you first arrive at |the DE|, you'll see the Dashboard. The Dashboard contains links to news, CyVerse videos, and a list of recently added public apps you can use. The left sidebar shows icons for accessing Data, Apps, Analyses, Teams, and Help.
 
-**Some things to remember about the DE**
+We welcome you to freely explore the Dashboard, but to perform any tasks, you must have an account and be logged in.
 
-- Your analyses are not limited by your computer. All computation in the
-  Discovery Environment runs on CyVerse resources. You can connect from your
-  laptop or phone and run jobs large and small.
-- Once you launch a job it will run until completion. You can logout once a job
-  is run; by default, you will get an email notification when the job completes.
+-----
 
-----
-
-*Logging in to the Discovery Environment*
+*About the Dashboard*
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-  1. Log into the Discovery Environment at |discovery environment|.
+The Dashboard provides an overview of recent activity in CyVerse and the Discovery Environment. Your recently launched analyses, newly integrated apps that you've been working on, and other activity will show on the Dashboard, as well as CyVerse-related news and events, video tutorials, and newly released public apps.
 
-  .. Tip::
-    If you forgot your password, you can reset it at the CyVerse User Portal `https://user.cyverse.org/ <https://user.cyverse.org/>`_
 
-  2. You can take a tour of the DE sections by clicking the |person_icon|
-  (person icon) in the upper right-hand side of the screen and selecting "Introduction"
+*Logging in*
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+To log in from the Dashboard, click the |profile icon| in the upper right corner of the DE, or click `SIGN IN` when you encounter this message:
+
+|DE Login Required|
+
+1. Log in to the Discovery Environment at |discovery environment| with your username and password.
+
+.. Tip::    If you forgot your password, you can reset it at the |CyVerse User Portal|.
+
+2. After logging in with your username and password, you'll be returned to the previous view. For example, if you were on the Apps view when you clicked `SIGN IN[d]`, you'll return to that view.
+
+You can take a short tour of the DE's main features by clicking the |Help| icon in the left sidebar and selecting "Product Tour".
+
+----
 
 ..
 	#### Comment: Suggested style guide:
@@ -47,18 +48,6 @@ done from start to finish within the DE.
 	5. Secondary menu titles or headers in single quotes: For the 'Select Input' option choose...
 	####
 
-----
-
-*Need Help?*
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-|intercom_icon| If you get stuck or need help, you can initiate a live chat
-session. Click the Intercom icon (lower-right screen) to initiate a session. If
-no CyVerse staff is available, leave a message and we will get back to you by
-email.
-
-
-
 
 
 ----
@@ -66,14 +55,12 @@ email.
 **Fix or improve this documentation**
 
 - Search for an answer:
-  |CyVerse Learning Center|
+   |CyVerse Learning Center|
 - Ask us for help:
   click |Intercom| on the lower right-hand side of the page
 - Report an issue or submit a change:
   |Github Repo Link|
 - Send feedback: `Tutorials@CyVerse.org <Tutorials@CyVerse.org>`_
-
-
 
 ----
 
