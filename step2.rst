@@ -1,4 +1,6 @@
 .. include:: cyverse_rst_defined_substitutions.txt
+.. include:: custom_ursl.txt
+
 |CyVerse_logo|_
 
 |Home_Icon|_

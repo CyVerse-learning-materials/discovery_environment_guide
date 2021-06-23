@@ -1,23 +1,41 @@
 .. include:: cyverse_rst_defined_substitutions.txt
+.. include:: custom_ursl.txt
+
 |CyVerse_logo|_
 
 |Home_Icon|_
 `Learning Center Home <http://learning.cyverse.org/>`_
 
-**Legacy Discovery Environment Guide**
-===============================
+**Discovery Environment Guide**
+=======================================
 
 |DE_logo|
 
 Goal
 ----
 
-Introduce the Discovery Environment (DE) to start managing data, using applications,
-and managing application history and results. This guide will only cover a limited subset
-of Discovery Environment functionalities; see the `Discovery Environment manual <https://pods.iplantcollaborative.org/wiki/display/DEmanual/Table+of+Contents>`_
-for the full set of documentation.
+Introduce the Discovery Environment (DE) to start managing data, using
+applications, and managing application history and results. This guide will
+only cover a limited subset of Discovery Environment functionalities; see the
+|DE Manual| for the full set of documentation.
 
 ----
+
+Guide Maintainer(s)
+------------------------
+
+Who to contact if this manual needs fixing. You can also email
+`Tutorials@CyVerse.org <Tutorials@CyVerse.org>`_
+
+.. list-table::
+    :header-rows: 1
+
+    * - Maintainer
+      - Institution
+      - Contact
+    * - Discovery Environment Team
+      - CyVerse / UA
+      - learning@CyVerse.org
 
 .. toctree::
 	:maxdepth: 2
@@ -39,9 +57,6 @@ Downloads, access, and services
 
 *In order to complete this tutorial you will need access to the following services/software*
 
-..
-	#### comment: delete any row not needed in this table ####
-
 .. list-table::
     :header-rows: 1
 
@@ -50,7 +65,7 @@ Downloads, access, and services
       - Link/Download
     * - CyVerse account
       - You will need a CyVerse account to complete this exercise
-      - `Register <https://user.cyverse.org/>`_
+      - |CyVerse User Portal|
 
 
 ----
