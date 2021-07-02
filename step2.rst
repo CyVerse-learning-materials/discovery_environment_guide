@@ -1,183 +1,110 @@
 .. include:: cyverse_rst_defined_substitutions.txt
-|CyVerse_logo|_
+.. include:: custom_urls.txt
 
+|CyVerse_logo|_
 |Home_Icon|_
 `Learning Center Home <http://learning.cyverse.org/>`_
 
 
-Viewing and Managing Data
--------------------------
+Managing Data in the Discovery Enviornment
+---------------------------------------------
 
-The Discovery Environment allows you to access, view, and manage your files in
-the CyVerse Data Store. You can upload smaller files, but for large files or
-large number of files, we recommend faster methods such as Cyberduck. See the
-`Cyberduck page <https://cyverse-data-store-guide.readthedocs-hosted.com/en/latest/step1.html>`_ in our `Data Store Guide <https://cyverse-data-store-guide.readthedocs-hosted.com/en/latest/>`_ to get started with Cyberduck.
+With CyVerse, you can manage data throughout the data lifecycle, from uploading, to adding metadata, to analyzing, sharing results, and making your data public for others to reuse. The DE interface is where you access, view, and manage your files in the CyVerse Data Store.
+
+To start managing data in the Discovery Environment, you must be logged in.
+
+Begin by clicking on the Data icon |Data Icon| in the left sidebar (you will be prompted to log in if you are not). You will see your home directory with folders first, then files listed alphabetically.
+
+|Data window|
 
 ----
 
 ..
 	#### Comment: short text description goes here ####
 
+*Browsing Data in the Discovery Enviornment*
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Navigating the Data Window in the Discovery Environment*
+You must be logged in to browse your data.
+
+1. To see and browse through information about your data files in the Data view, press the :guilabel:`&Customize Columns` button to select more (or fewer) columns to display, such as size, modification date, permissions, etc.
+
+2. If the folder you're viewing has many items in it, use the < or > at the bottom of the page to move between pages. You can also change the number of items displayed per page.
+
+3. Click on the name of a subfolder to open that folder. As you access folders or files within your directory, breadcrumbs near the top of the page show the folder you are viewing and its parent folder(s).
+
+4. From the top left, at the start of the breadcrumbs, you may select another root folder to view from within your home folder; clicking on the dropdown near your username will allow you to browse folders/files in "Shared With Me", "Community Data", or "Trash".
+
+
+*Viewing File/Folder Details in the Discovery Enviornment*
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Both the :guilabel:`&Details` button near the top right and the More Options menu (ellipsis) at the far right in a file or folder's row allow you to view and manage several types of information about your file/folder.
+
+You must be logged in to view file/folder details.
+
+1. From the Data view, click the checkbox next to a file or folder to select it and then click the :guilabel:`&Details` or the ellipsis to see specific information about the selected item, to copy the file path to the item, to add tags to the item, to edit metadata, or to set a file's info type.
+
+2. To view your own permissions on the item and those of other users, click the 'Permissions' tab under “Details”.
+
+
+
+*Deleting Files/Folders in the Discovery Enviornment*
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-1. If necessary, login to the |discovery environment|.
+You must be logged in to delete files/folders.
 
-2. Click on the data icon |data_icon| to view files accessible to you in the
-   Data Store.
+1. From the Data view, select the desired file/folder by clicking the checkbox to its left. You can select multiple files/folders. To unselect an individual file/folder, click the checkbox again. To select (or unselect) all files/folders, click the checkbox at the top of the list.
 
-  .. Tip::
-    The first directory in the data window is your username and is your
-    your personal folder on the Data Store.
+2. Click on the More Options menu (ellipsis) in the upper right corner of the Data view and select **Delete** from the pop-up menu. When the file has been fully deleted, you will receive an automated notification under the notification icon |notification icon|. When deleting or moving a file/folder, you must receive the completion notification before you can change anything associated with that file/folder.
 
-    |data_window|
 
-    The other directories include:
+   .. tip:: Deleted files can be retrieved from your Trash. To access your Trash folder, click on your username in the top left corner of the Data view.
 
-    - *Community Data*: publicly available data hosted on CyVerse
-    - *Shared with me*: data shared with you by CyVerse or individual users
-    - *Trash*: data deleted in the Discovery Environment goes here
-    - *Favorites*: folder(s) your have marked as favorite will be shown here
 
-----
 
-*Preview a File and View Metadata in Discovery Environment*
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+*Uploading/Importing Small Files in the Discovery Enviornment*
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-In the DE you can preview many file types include images and plain- or
-delimited-text files. The DE also allows you to associate your data with
-metadata.
+You can use the DE interface to upload smaller files (<2GB). For larger files or large numbers of files, we recommend using faster methods such as Cyberduck or iCommands. See the documentation for those tools in our |Data Store Guide|.
 
-1. If necessary, login to the |discovery environment|.
+**Important**
 
-2. Click on **Data** to open the Data Window.
+- When up- or downloading data from your desktop/PC, you must remain on the Data view until the task completes.
+- When importing data from a URL, you can log out or navigate to another page or operation after you start the import; an automated email notification is sent to you when the task is complete.
+- You must be logged in to upload/import files.
 
-3. View a sample fastq file; place the following path in the 'Viewing' field
-   of the data window:
+1. Click the **Data** button |Data Icon| in the Discovery Environment’s left sidebar to access the Data view.
 
-   **"/iplant/home/shared/cyverse_training/platform_guides/discovery_envirornment/sample_fastq"**
+2. The Data view shows a directory of the files and folders in your Data Store. You can select an existing folder as the destination for your uploaded file(s) or click the **Folder** button to create a new folder. If you do not select a destination, the default file destination is your home Data Store folder (i.e., iplant/home/CYVERSE_USERNAME).
 
-   |viewing_window|
+3. Click the :guilabel:`&Upload` button to choose your options for importing files into the Data Store:
 
-4. Preview **sample.fastq** by clicking on the file name.
+    - To upload files from your local computer, choose **Browse Local**; a file browser will open and you may select files to upload.
 
-  .. Tip::
-    You can preview even large files (like fastq files) in the Discovery
-    Environment. Large files will be viewed across several pages. Delimited files
-    (tab, comma, etc.) will be formatted and are sortable.
+    - To upload files from a URL, choose **Import by URL**; you may paste in a valid HTTP or an FTP URL, then click **Import**. You may paste additional URLs or close this window by clicking **Done**.
 
-5. Select **sample.fastq** and click on the *Metadata* menu and select
-   *Edit/View Metadata*
 
-   .. Tip::
-     You can apply one of several metadata templates to your datasets, or use your
-     own. Applying metadata to your datasets makes them more easily searchable, and
-     also prepares them for publication (e.g. to NCBI databases such as the Short
-     Read Archive (SRA)).
+  .. tip::
 
-----
 
-*Share a File in Discovery Environment with a URL (Public Link)*
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-You can quickly share files in your Data Store using a Discovery Environment
-Public Link.
+    When your Data Store file browser is open, you can also upload files from your computer by dragging them into your browser window.
 
-.. Note::
-  You can **only share individual files** using the quick link. Since files are
-  shared over HTTP this is only recommended for small files. This is a convenient
-  , but less secure method for file transfer. Do not share sensitive/private
-  data using these links.
+4. When you have begun the upload, you will get an automated notification that the file(s) has been queued. To view the status of an upload or import, go click the **Upload** button and choose **View Upload Queue**.
 
-1. If necessary, login to the |discovery environment|.
+   .. Note::
 
-2. In the Data window, select (checkbox) an individual file you wish to share.
+     The queue will only display the status of uploads from local files. Files imported by URL will generate an automated notification (bell icon, upper-right) upon completion (or failure) to upload.
 
-3. From the *Share* menu, select *Create a Public Link*.
 
-4. In the “Manage Data Links” window, select the file you wish to share, and
-   click **Create**.
+*Advanced Data Management Features in the Discovery Enviornment*
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-5. A new URL should appear beneath the file name. Click on this URL and the
-   click on Copy in order to be presented with a window that will allow you to
-   copy the URL to your clipboard. Anyone who you share this link with will be
-   able to download the file. You can test the link in a new web browser window.
 
-    |data_links_window|
+The Discovery Environment also supports advanced data management tasks such as organizing your datasets, associating data with metadata, requesting a Digital Object Identifier (DOI), and importing or submitting data to/from NCBI SRA. For information on these advanced features, see |Data Store Guide|.
 
-6. Deactivate a data link by selecting the file; from the *Share* menu click via
-   Public Link. Clicking the |delete_icon| delete icon, next to the links you
-   wish to inactivate. Once you deactivate the link, anyone with whom you shared
-   it with will no longer be able to access that data.
 
-  .. Tip::
-    You can quickly create a link to a file by clicking the |link_icon| link icon
-    next to file you wish to share. Manage these links using the "Manage Data
-    Links" console which is accessible from the *Share* menu as described above.
 
-----
-
-*Share a File/folder in Discovery Environment with Another CyVerse User*
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Share data with another CyVerse user by granting permission to read, write, or
-own files/folders
-
-1. If necessary, login to the |discovery environment|.
-
-2. In the Data window, select (checkbox) file(s), folder(s) you wish to share
-   with another user;
-   then under the *Share* menus select *Share with Collaborators...*
-3. In the “Manage Sharing” menu, under ‘Selected File(s)/Folder(s) the name of
-   the files and folders you are currently sharing are displayed. Ensure the
-   file you wish to share now is selected.
-
-    |manage_sharing|
-
-4. In the ‘search for users’ field search for the CyVerse user you wish to share
-   with by search for their name, or CyVerse username. You may also select
-   ‘Choose from Collaborators’ which will bring up a list of people you have
-   designated as collaborators.
-5. Next, under ‘Permissions’ choose what permission you want to grant the person
-   you are sharing this file with.
-6. Once you are finished, click Done to begin sharing. The user will be notified
-   that a file has been shared with them.
-
-   .. hint::
-      By managing access to data, the DE allows you to share large datasets
-      instantaneously. Data permissions (based on UNIX permissions) are
-      described in this chart:
-
-      .. list-table::
-          :header-rows: 1
-
-          * - Permission level
-            - Read
-            - Download/Save
-            - Metadata
-            - Rename
-            - Move
-            - Delete
-          * - Read
-            - **X**
-            - **X**
-            - **View**
-            -
-            -
-            -
-          * - Write
-            - **X**
-            - **X**
-            - **Add/Edit**
-            -
-            -
-            -
-          * - Own
-            - **X**
-            - **X**
-            - **Add/Edit**
-            - **X**
-            - **X**
-            - **X**
 
 ..
 	#### Comment: Suggested style guide:
@@ -201,7 +128,6 @@ own files/folders
 - Report an issue or submit a change:
   |Github Repo Link|
 - Send feedback: `Tutorials@CyVerse.org <Tutorials@CyVerse.org>`_
-
 
 
 ----

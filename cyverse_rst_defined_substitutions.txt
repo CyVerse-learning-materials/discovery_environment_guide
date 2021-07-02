@@ -117,6 +117,18 @@
 
    <a href="http://learning.cyverse.org/en/latest/" target="blank">BisQue Guide</a>
 
+.. |Quick Starts| raw:: html
+
+   <a href="https://learning.cyverse.org/en/latest/quick_starts.html" target="blank">Quick Starts</a>
+
+
+.. |Tool and App Integration Guide| raw:: html
+
+   <a href="https://learning.cyverse.org/en/latest/tools_and_apps.html" target="blank">Tool and App Integration Guide</a>
+
+.. |Tutorials| raw:: html
+
+   <a href="https://learning.cyverse.org/en/latest/tutorials.html" target="blank">Tutorials</a>
 
 .. Comment: images
 

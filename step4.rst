@@ -1,89 +1,53 @@
 .. include:: cyverse_rst_defined_substitutions.txt
+.. include:: custom_urls.txt
+
 |CyVerse_logo|_
 
 |Home_Icon|_
 `Learning Center Home <http://learning.cyverse.org/>`_
 
 
-Checking Job Status and Results
--------------------------------
-
-The Discovery Environment maintains a detailed history of jobs you have previously
-launched. Using the Analysis console you can also view the status of jobs in progress,
-cancel jobs, relaunch jobs, and view and save the parameters of previously launched
-jobs.
-
-----
-
-..
-	#### Comment: short text description goes here ####
+Managing Analyses in the Discovery Envionrnment
+--------------------------------------------------------------------
 
 
-*Check Discovery Environment Job Results*
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+An analysis is the product of a launched app that has completed its computation of input data. The Discovery Environment maintains a history of all your analyses, including a unique analysis ID, launch date, input files, and other details.
 
-  1. Click on **Analyses** from the DE workspace and monitor the status of your
-     submitted job (You may have to click refresh to view updated status).
-
-  2. In the Analysis console, once your status appears as ‘Completed,’ click on
-     the name of your analysis to navigate you to the results.
-
-.. list-table::
-    :header-rows: 1
-
-    * - Output
-      - Description
-      - Example
-    * - Your output will include a folder of logs as well as multiple sequence
-        alignments in several formats.
-      - - logs/
-        - clustalw.aln
-        - fasta.aln
-        - phylip_interleaved.aln
-        - phylip_sequential.aln
-      -
-        - `Example output on CyVerse Data Commons <http://datacommons.cyverse.org/browse/iplant/home/shared/cyverse_training/platform_guides/discovery_environment/muscle_3_8_31/02_muscle_output>`_
-        - `Example output on DE <https://de.cyverse.org/de/?type=data&folder=/iplant/home/shared/cyverse_training/platform_guides/discovery_environment/muscle_3_8_31/02_muscle_output>`_
-----
-
-
-*Save Discovery environment Job Parameters*
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-The analysis menu gives you several options, including saving the parameters
-of a previously used job.
-
-  1. Click on **Analyses** from the DE workspace
-  2. Select (checkbox) an analysis; from the *Analysis* menu select *View
-     Parameters*
-  3. View the parameters and select "Save As" to save parameters as a text file
-     in your Data Store.
+|analyses page|
 
 ----
 
-*Summary*
-~~~~~~~~~
 
-Using MUSCLE as an example, you have gotten an overview of how most of the
-applications within the Discovery Environment work - from managing data, to
-launching jobs, and obtaining results.
+*Browsing Analyses in the Discovery Envionrnment*
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-..
-    Summary
+  .. note::
 
-**Next Steps:**
+   You must be logged in to manage analyses.
 
-- Try a tutorial using the Discovery Environment in the `Learning Center <http://learning.cyverse.org>`_
-- See a complete list of Discovery Environment Applications on the CyVerse Wiki `DE Apps list <https://wiki.cyverse.org/wiki/display/DEapps/Discovery+Environment+Applications+List>`_
+1. Open the **Analyses** view by clicking on the |analyses icon| (analyses
+icon) on the left sidebar of the DE interface to monitor the status of your
+submitted analysis. The analysis launched most recently will be at the top of
+the list.
 
-More help and additional information
-`````````````````````````````````````
+
+2. Analyses can be sorted by Name, Start date, End date or Status. To sort your analyses, hover over the name of the column you wish to sort by and click on the arrow that appears beside the column name.
+
+
+3. To filter your analyses by user, click on the View dropdown menu in the upper left corner and select either 'My analyses' or 'Shared with me'. The default view is 'My analyses’.
+
+
+4. To further filter your analyses by app type, click on the Filter dropdown menu and select the type of analyses you would like to see (i.e., HPC, DE, VICE, or OSG).
+
+
+5. To open and view the output folder of a completed analysis, click on the output folder icon at the right side of that particular analysis.
+
 
 ..
     Short description and links to any reading materials
 
 
-
+=======
 
 
 ----

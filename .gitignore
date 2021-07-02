@@ -1,3 +1,10 @@
+<<<<<<< HEAD
 **/.DS_Store
 .DS_Store
 _build
+=======
+_build/
+*.pyc
+.ropeproject/
+.DS_store
+>>>>>>> cbe9cbd361fc9929bc3a5e1d498e97d90040d68e
