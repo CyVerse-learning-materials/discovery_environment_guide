@@ -1,4 +1,4 @@
-.. include:: cyverse_rst_defined_substitutions.txtI
+.. include:: cyverse_rst_defined_substitutions.txt
 .. include:: custom_urls.txt
 
 |CyVerse logo|_
@@ -7,17 +7,17 @@
 `Learning Center Home <http://learning.cyverse.org/>`_
 
 
-Using Search
-------------------------------------------
+Using Search in the Discovery Envionrnment
+----------------------------------------------
 
 
-Use Search from anywhere in the Discovery Environment to find *Data*, *Apps*, and *Analyses*. The Search box |search icon| is located at the top of the page.
+Use Search from anywhere in the Discovery Environment to find *Data*, *Apps*, and *Analyses*. The Search box is located at the top of the page.
 
 
 ------
 
 
-*Searching Data, Apps, and Analyses*
+*Searching Data, Apps, and Analyses in the Discovery Envionrnment*
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 To search, you do not need to be logged in, however you must log in to perform any tasks with data, apps or analyses.
@@ -28,23 +28,20 @@ To search, you do not need to be logged in, however you must log in to perform a
 2. Search results will be displayed as a dropdown list grouped by **Apps**, **Analyses**, or **Data**.
 
 
- |Global_Search|
-
-
-.. Tip::     To limit your search to just **Apps** or **Analyses** or **Data**, click the dropdown arrow on the right side of the Search box and select the desired filter.
+.. Tip::
+   To limit your search to just **Apps** or **Analyses** or **Data**, click the dropdown arrow on the right side of the Search box and select the desired filter.
 
 
 3. Click on the desired result from the listing.
 
 
-.. Tip::     Only the top **10 results** are shown by default. To see all the results associated with a *search term*, including “Community Data” or “Shared with Me” results for Data, hit the *enter* key after the *search term* or select the option similar to *View all analyses results for fasta* from the results dropdown.
+.. Tip::
+   Only the top **10 results** are shown by default. To see all the results associated with a *search term*, including “Community Data” or “Shared with Me” results for Data, hit the *enter* key after the *search term* or select the option similar to *View all analyses results for fasta* from the results dropdown.
 
-
-|Detailed_Search_Results|
 
 ----
 
-**Fix or improve this documentation:**
+**Fix or improve this documentation**
 
 - Search for an answer:
   |CyVerse Learning Center|
@@ -53,6 +50,7 @@ To search, you do not need to be logged in, however you must log in to perform a
 - Report an issue or submit a change:
   |Github Repo Link|
 - Send feedback: `Tutorials@CyVerse.org <Tutorials@CyVerse.org>`_
+
 ----
 
 .. |CyVerse logo| image:: ./img/cyverse_rgb.png

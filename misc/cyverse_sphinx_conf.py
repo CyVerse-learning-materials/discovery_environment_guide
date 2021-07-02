@@ -11,19 +11,11 @@ extensions = [
     'sphinx.ext.autodoc',
 ]
 
-<<<<<<< HEAD
-project = 'YOUR PROJECT NAME HERE as topic_tutorial'
-copyright = '2020, CyVerse'
-author = 'CyVerse'
-version = '2.0'
-version = '2.0'
-=======
-project = 'YOUR PROJECT NAME HERE'
-copyright = '2020, CyVerse'
+project = 'Discovery Environment Guide'
+copyright = '2021, CyVerse'
 author = 'CyVerse'
 version = '2.0'
 release = '2.0'
->>>>>>> cbe9cbd361fc9929bc3a5e1d498e97d90040d68e
 
 language = None
 source_parsers = {
