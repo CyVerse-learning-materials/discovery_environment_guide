@@ -7,7 +7,7 @@
 `Learning Center Home <http://learning.cyverse.org/>`_
 
 
-Managing Analyses in the Discovery Envionrnment
+Managing Analyses in the Discovery Environnment
 --------------------------------------------------------------------
 
 
@@ -18,7 +18,7 @@ An analysis is the product of a launched app that has completed its computation 
 ----
 
 
-*Browsing Analyses in the Discovery Envionrnment*
+*Browsing Analyses in the Discovery Environment*
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
   .. note::
