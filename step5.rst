@@ -7,7 +7,7 @@
 `Learning Center Home <http://learning.cyverse.org/>`_
 
 
-Using Search in the Discovery Envionrnment
+Using Search in the Discovery Environment
 ----------------------------------------------
 
 
@@ -17,7 +17,7 @@ Use Search from anywhere in the Discovery Environment to find *Data*, *Apps*, an
 ------
 
 
-*Searching Data, Apps, and Analyses in the Discovery Envionrnment*
+*Searching Data, Apps, and Analyses in the Discovery Environment*
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 To search, you do not need to be logged in, however you must log in to perform any tasks with data, apps or analyses.
