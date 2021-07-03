@@ -7,7 +7,7 @@
 `Learning Center Home <http://learning.cyverse.org/>`_
 
 
-Using Apps in the Discovery Envionrment
+Using Apps in the Discovery Environment
 ----------------------------------------
 
 You can select from several hundred applications (apps) available in the Discovery Environment when you are ready to analyze your data.
@@ -17,7 +17,7 @@ You can select from several hundred applications (apps) available in the Discove
 
 	When launching an app, you can log out or navigate to another page or operation after you start the task; an automated email notification is sent to you when those tasks are completed.
 
-*Browsing Apps in the Discovery Envionrment*
+*Browsing Apps in the Discovery Envirorment*
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 You must be logged in to browse and use apps.
@@ -30,7 +30,7 @@ in, you will see a screen that looks something like this:
 |apps page|
 
 
-*Sorting and Filtering Apps in the Discovery Envionrment*
+*Sorting and Filtering Apps in the Discovery Environment*
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 To sort the list of apps in ascending or descending order by app name, the name of the person who integrated the app in CyVerse, or its average rating, click on the column headings.
@@ -99,7 +99,7 @@ filters are:
 The app filter you selected will be displayed in the Filter control.
 To dismiss a filter, click the `X` to the right of the filter name.
 
-*Viewing App Details in the Discovery Envionrment*
+*Viewing App Details in the Discovery Environment*
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
@@ -127,7 +127,7 @@ anywhere outside the panel.
 
 
 
-*About VICE Apps in the Discovery Envionrment*
+*About VICE Apps in the Discovery Environment*
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
@@ -138,7 +138,7 @@ You must request access and be approved to use VICE apps through the CyVerse Use
 
 
 
-*Advanced Features in the Discovery Envionrment*
+*Advanced Features in the Discovery Environment*
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
