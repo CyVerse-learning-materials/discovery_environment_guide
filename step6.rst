@@ -7,13 +7,13 @@
 `Learning Center Home <http://learning.cyverse.org/>`_
 
 
-Sharing and Using Bags in the Discovery Envionrnment
+Sharing and Using Bags in the Discovery Environment
 -------------------------------------------------------
 
 You can share data, apps, and analyses using the sharing features with one or more CyVerse users through the Discovery Environment. The “Bag” |bag icon| is a handy feature in the DE that you can use to gather and download or share multiple data files, apps, and analyses or any combination of those resources with another user(s). There is no limit to the number of items you can put in a bag but you can only share files you own.
 
 
-*Sharing Data in the Discovery Envionrnment*
+*Sharing Data in the Discovery Environment*
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 You must be logged in to share resources.
@@ -71,7 +71,7 @@ You must be logged in to share resources.
             - **X**
 
 
-*Sharing Apps in the Discovery Envionrnment*
+*Sharing Apps in the Discovery Environment*
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
@@ -190,7 +190,7 @@ You must be logged in to share resources.
             - **X**
 
 
-*Using a Bag to Share or Download in the Discovery Envionrnment*
+*Using a Bag to Share or Download in the Discovery Environment*
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 You can share or download multiple items using the |bag icon| (bag icon) feature in the Discovery Environment. You must be logged in to use a bag.
