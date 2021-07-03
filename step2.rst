@@ -6,7 +6,7 @@
 `Learning Center Home <http://learning.cyverse.org/>`_
 
 
-Managing Data in the Discovery Enviornment
+Managing Data in the Discovery Environment
 ---------------------------------------------
 
 With CyVerse, you can manage data throughout the data lifecycle, from uploading, to adding metadata, to analyzing, sharing results, and making your data public for others to reuse. The DE interface is where you access, view, and manage your files in the CyVerse Data Store.
@@ -22,7 +22,7 @@ Begin by clicking on the Data icon |Data Icon| in the left sidebar (you will be 
 ..
 	#### Comment: short text description goes here ####
 
-*Browsing Data in the Discovery Enviornment*
+*Browsing Data in the Discovery Environment*
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 You must be logged in to browse your data.
@@ -36,7 +36,7 @@ You must be logged in to browse your data.
 4. From the top left, at the start of the breadcrumbs, you may select another root folder to view from within your home folder; clicking on the dropdown near your username will allow you to browse folders/files in "Shared With Me", "Community Data", or "Trash".
 
 
-*Viewing File/Folder Details in the Discovery Enviornment*
+*Viewing File/Folder Details in the Discovery Environment*
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Both the :guilabel:`&Details` button near the top right and the More Options menu (ellipsis) at the far right in a file or folder's row allow you to view and manage several types of information about your file/folder.
@@ -49,7 +49,7 @@ You must be logged in to view file/folder details.
 
 
 
-*Deleting Files/Folders in the Discovery Enviornment*
+*Deleting Files/Folders in the Discovery Environment*
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 You must be logged in to delete files/folders.
@@ -63,7 +63,7 @@ You must be logged in to delete files/folders.
 
 
 
-*Uploading/Importing Small Files in the Discovery Enviornment*
+*Uploading/Importing Small Files in the Discovery Environment*
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 You can use the DE interface to upload smaller files (<2GB). For larger files or large numbers of files, we recommend using faster methods such as Cyberduck or iCommands. See the documentation for those tools in our |Data Store Guide|.
@@ -97,7 +97,7 @@ You can use the DE interface to upload smaller files (<2GB). For larger files or
      The queue will only display the status of uploads from local files. Files imported by URL will generate an automated notification (bell icon, upper-right) upon completion (or failure) to upload.
 
 
-*Advanced Data Management Features in the Discovery Enviornment*
+*Advanced Data Management Features in the Discovery Environment*
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
