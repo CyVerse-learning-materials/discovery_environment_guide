@@ -21,3 +21,7 @@ epub_title = project
 epub_author = author
 epub_publisher = author
 epub_copyright = copyright
+
+html_theme_options = {
+    "collapse_navigation" : False
+}
