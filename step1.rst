@@ -7,7 +7,7 @@
 
 
 Logging into the Discovery Environment (DE)
--------------------------------------------
+---------------------------------------------
 
 When you first arrive at the |Discovery Environment|, you'll see the Dashboard. The Dashboard contains links to news, CyVerse videos, and a list of recently added public apps you can use. The left sidebar shows icons for accessing Data, Apps, Analyses, Teams, and Help.
 
@@ -17,7 +17,7 @@ to create an account or reset your password.
 
 -----
 
-*About the Dashboard*
+*About the Discovery Environment Dashboard*
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 The Dashboard provides an overview of recent activity in CyVerse and the
@@ -28,7 +28,7 @@ public apps.
 
 |de_dashboard|
 
-*Logging in*
+*Logging in to the Discovery Environment*
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 1. To log in from the Dashboard, navigate to the |Discovery Environment| and
@@ -53,7 +53,7 @@ You can take a short tour of the DE's main features by clicking the |help_icon| 
   click |Intercom| on the lower right-hand side of the page
 - Report an issue or submit a change:
   |Github Repo Link|
-- Send feedback: `Tutorials@CyVerse.org <Tutorials@CyVerse.org>`_
+- Send feedback: `learning@CyVerse.org <learning@CyVerse.org>`_
 
 ----
 

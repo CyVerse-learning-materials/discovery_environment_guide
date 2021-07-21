@@ -32,7 +32,7 @@ Guide Maintainer(s)
 ------------------------
 
 Who to contact if this manual needs fixing. You can also email
-`Tutorials@CyVerse.org <Tutorials@CyVerse.org>`_
+`learning@CyVerse.org <learning@CyVerse.org>`_
 
 .. list-table::
     :header-rows: 1
@@ -62,7 +62,7 @@ Who to contact if this manual needs fixing. You can also email
 	------------------------
 
 
-	Please contact the Maintainer(s) if this guide needs fixing. You can also email `Tutorials@CyVerse.org <Tutorials@CyVerse.org>`_
+	Please contact the Maintainer(s) if this guide needs fixing. You can also email learning@CyVerse.org <learning@CyVerse.org>`_
 
 
 	.. list-table::
@@ -134,7 +134,7 @@ Platform(s)
   click |Intercom| on the lower right-hand side of the page
 - Report an issue or submit a change:
   |Github Repo Link|
-- Send feedback: `Tutorials@CyVerse.org <Tutorials@CyVerse.org>`_
+- Send feedback: `learning@CyVerse.org <learning@CyVerse.org>`_
 
 ----
 

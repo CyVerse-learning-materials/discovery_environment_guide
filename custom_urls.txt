@@ -17,8 +17,6 @@
 
    <a href="https://tapis-project.org/documentation/" target="blank">TAPIS API</a>
 
-
-
 .. |DE Apps Navigation Icon| image:: ./img/sonora/apps_nav_icon.png
     :width: 25px
     :height: 25px

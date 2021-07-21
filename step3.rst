@@ -17,7 +17,7 @@ You can select from several hundred applications (apps) available in the Discove
 
 	When launching an app, you can log out or navigate to another page or operation after you start the task; an automated email notification is sent to you when those tasks are completed.
 
-*Browsing Apps in the Discovery Envirorment*
+*Browsing Apps in the Discovery Environment*
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 You must be logged in to browse and use apps.
@@ -160,7 +160,7 @@ our |Tutorials|.
   click |Intercom| on the lower right-hand side of the page
 - Report an issue or submit a change:
   |Github Repo Link|
-- Send feedback: `Tutorials@CyVerse.org <Tutorials@CyVerse.org>`_
+- Send feedback: `learning@CyVerse.org <learning@CyVerse.org>`_
 
 
 

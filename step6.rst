@@ -127,7 +127,7 @@ You must be logged in to share resources.
 
 
 
-*Sharing Analyses in the Discovery Envionrnment*
+*Sharing Analyses in the Discovery Environment*
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
@@ -222,16 +222,15 @@ You can share or download multiple items using the |bag icon| (bag icon) feature
 ----
 
 
-**Fix or improve this documentation:**
-
+**Fix or improve this documentation**
 
 - Search for an answer:
-  |CyVerse Learning Center|
+   |CyVerse Learning Center|
 - Ask us for help:
   click |Intercom| on the lower right-hand side of the page
 - Report an issue or submit a change:
   |Github Repo Link|
-- Send feedback: `Tutorials@CyVerse.org <Tutorials@CyVerse.org>`_
+- Send feedback: `learning@CyVerse.org <learning@CyVerse.org>`_
 
 ----
 
