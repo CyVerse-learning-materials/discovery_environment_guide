@@ -16,6 +16,11 @@ author = 'CyVerse'
 version = '2.0'
 release = '2.0'
 
+html_theme_options = {
+    # Toc options
+    'collapse_navigation': False,
+    'navigation_depth': 4,
+}
 
 epub_title = project
 epub_author = author
