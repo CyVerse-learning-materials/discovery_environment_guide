@@ -133,12 +133,24 @@
 .. |analyses icon| image:: ./img/de/analyses_icon.png
     :width: 40px
 
+.. |link out icon| image:: ./img/de/link_out_icon.png
+    :width: 20px
+
+.. |folder icon| image:: ./img/de/folder_icon.png
+    :width: 20px
+
+.. |relaunch icon| image:: ./img/de/relaunch_icon.png
+    :width: 20px
+
 .. |bag icon| image:: ./img/de/bag_icon.png
     :width: 40px
 
 .. |analyses page| image:: ./img/de/analyses_page.png
     :width: 600
     :height: 400
+
+.. |info icon| image:: ./img/de/info_icon.png
+    :width: 20px
 
 .. |muscle_app_launch_info| image:: ./img/sonora/muscle_app_launch_info.png
     :width: 480
