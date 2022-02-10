@@ -1,10 +1,10 @@
 ![CyVerese Logo](./assets/cyverse_learning.png)
 
-![Learning Center Home](./assets/homeIcon.png)<img src="./assets/homeIcon.png" width="25px" height="25px"> [Learning Center Home](http://learning.cyverse.org/)
+<img src="./assets/home_icon.png" alt="Learning Center Home" width="25px" height="25px"> [Learning Center Home](http://learning.cyverse.org/)
 
 # Discovery Environment Guide
 
-![DE_logo](./assets/de/deLogo.png)<img src="./assets/de/deLogo.png" width="100px" height="100px">
+<img src="./assets/de/deIcon.png" alt="DE Logo" width="100px" height="100px">
 
 ## Goal
 
