@@ -16,9 +16,13 @@ copyright: 'Copyright &copy; 2022 CyVerse'
 # Navigation Page
 nav:
   - Home: index.md
-  - step1: step1.md
-  - step2: step2.md
-  - FAQ: faq.md
+  - Logging In: logging_in.md 
+  - Managing Data: step2.md
+  - Using Apps: step3.md
+  - Managing Analyses: step4.md
+  - Searching: step5.md
+  - Sharing and Using Bags: step6.md
+  - Final Notes: final_step_md
 
 # DO NOT EDIT BELOW THIS LINE
 # Set theme to `readthedocs`
@@ -28,12 +32,12 @@ theme:
 
   # Default values, taken from mkdocs_theme.yml
   language: en
-  palette: 
+  palette:
     - scheme: default
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode
-    - scheme: slate 
+    - scheme: slate
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
