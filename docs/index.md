@@ -1,10 +1,10 @@
-![CyVerese Logo](./docs/assets/cyverse_learning.png)
+![CyVerese Logo](./assets/cyverse_learning.png)
 
-![Learning Center Home](./docs/assets/homeIcon.png){width="25px" height="25px"}\_ [Learning Center Home](http://learning.cyverse.org/)
+![Learning Center Home](./assets/homeIcon.png)<img src="./assets/homeIcon.png" width="25px" height="25px"> [Learning Center Home](http://learning.cyverse.org/)
 
 # Discovery Environment Guide
 
-![DE_logo](./assets/de/deLogo.png){width="100px" height="100px"}
+![DE_logo](./assets/de/deLogo.png)<img src="./assets/de/deLogo.png" width="100px" height="100px">
 
 ## Goal
 
@@ -43,10 +43,10 @@ services/software*
 ## Fix or improve this documentation
 
 -   Search for an answer: [CyVerse Learning Center](https://learning.cyverse.org)
--   Ask us for help: click here ![In-app chat](./docs/assets/intercom.png) or email [support@CyVerse.org](mailto:support@cyverse.org)
+-   Ask us for help: click here ![In-app chat](./assets/intercom.png) or email [support@CyVerse.org](mailto:support@cyverse.org)
 -   Report an issue or submit a change: [Github Repo Link](https://github.com/cyverse-learning-materials/)
 -   Send feedback: [learning\@CyVerse.org](learning@CyVerse.org)
 
 
-![Home_Icon](./docs/assets/homeicon.png){width="25px" height="25px"}\_ [Learning
+![Home_Icon](./assets/homeicon.png){width="25px" height="25px"}\_ [Learning
 Center Home](http://learning.cyverse.org/)
